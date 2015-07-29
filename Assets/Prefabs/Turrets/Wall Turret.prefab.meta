@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4d24609e1afd945f3861b6cb86a3877d
+labels:
+- Gun
+- Turret
+- AI
+- Weapon
+- Smooth
+- Wall
+- Machinegun
+- Automatic
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

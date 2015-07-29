@@ -1,0 +1,948 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Horizon[ON] Tesselation (DX11)
+  m_Shader: {fileID: 4800000, guid: b2fd67f43e8f10642b545faa4bc1f0d0, type: 3}
+  m_ShaderKeywords:
+  - _LOCALVSGLOBALSPACE_ON
+  - _BLENDGLOSS2_ON
+  - IBLSPEC_OFF
+  - WATER_OFF
+  - DIRECTSPEC_ON
+  - NORMALMAPS_ON
+  - _CLIFFDETAIL_ON
+  - _CLIFFDETAIL_NORMALS
+  - _LAYERCOUNT_FOUR
+  - _IBLDIFF_CUBEMAP
+  - _NORMALMAPS_ON
+  - _EMISSIVENESS_ON
+  - _DETAIL_ON
+  - _DIRECTSPEC_ON
+  - _IBLSPEC_ON
+  - _WATER_ON
+  - _SNOW_ON
+  - _OVERLAYFOG_OFF
+  m_CustomRenderQueue: -1
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _DiffuseIBLCubemap
+        second:
+          m_Texture: {fileID: 8900000, guid: 7b57adce88768b34a8152854fdf0e99f, type: 2}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: unity_SpecCube0
+        second:
+          m_Texture: {fileID: 8900000, guid: afbbb89b2b968674883779137ba27c92, type: 2}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _SpecularIBL
+        second:
+          m_Texture: {fileID: 8900000, guid: 974ac51f7c9d1004b89cb94fb7009210, type: 2}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _MaskRBlend1GBlend2BBlend3AWater
+        second:
+          m_Texture: {fileID: 2800000, guid: 2771aa38b9f1c464a972421e5261f03e, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _BaseColormap
+        second:
+          m_Texture: {fileID: 2800000, guid: 9bbe4ad8d405158408f8230a5a3550ef, type: 3}
+          m_Scale: {x: 2, y: 2}
+          m_Offset: {x: .5, y: .5}
+      data:
+        first:
+          name: _BaseNormalmap
+        second:
+          m_Texture: {fileID: 2800000, guid: fbcb0574942922d4198dcad2e8eb8993, type: 3}
+          m_Scale: {x: 4, y: 4}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _BlendColorMap1
+        second:
+          m_Texture: {fileID: 2800000, guid: 2b2e7a7998f2785489fc9969aa0afe59, type: 3}
+          m_Scale: {x: 2, y: 2}
+          m_Offset: {x: .5, y: .5}
+      data:
+        first:
+          name: _BlendNormalmap1
+        second:
+          m_Texture: {fileID: 2800000, guid: 5459dedd98afae542aa59b26ea951b57, type: 3}
+          m_Scale: {x: 2, y: 2}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _BlendColormap2
+        second:
+          m_Texture: {fileID: 2800000, guid: 32bb4407d94068540ac0d2ff91043fb9, type: 3}
+          m_Scale: {x: 10, y: 10}
+          m_Offset: {x: .5, y: .5}
+      data:
+        first:
+          name: _BlendNormalmap2
+        second:
+          m_Texture: {fileID: 2800000, guid: d7a28b5ff85102244bfcdf46875052a5, type: 3}
+          m_Scale: {x: 5, y: 5}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _BlendColormap3
+        second:
+          m_Texture: {fileID: 2800000, guid: 63e44440993d29b4e9e0e21f532ab101, type: 3}
+          m_Scale: {x: 5, y: 5}
+          m_Offset: {x: 1, y: 1}
+      data:
+        first:
+          name: _BlendNormalmap3
+        second:
+          m_Texture: {fileID: 2800000, guid: bd6b8928218824f46bb034c2ea565f42, type: 3}
+          m_Scale: {x: 10, y: 10}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _DetailColormap
+        second:
+          m_Texture: {fileID: 2800000, guid: c99098516ff204644a834e3696fa65ee, type: 3}
+          m_Scale: {x: 100, y: 100}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _DetailNormalmap
+        second:
+          m_Texture: {fileID: 2800000, guid: 6aa2fcbd18366214c8f601beb37a8bee, type: 3}
+          m_Scale: {x: 50, y: 50}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _WaterNormalmap
+        second:
+          m_Texture: {fileID: 2800000, guid: db106602c484ead42924297aa3f4faef, type: 3}
+          m_Scale: {x: 100, y: 100}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _ParallaxMap
+        second:
+          m_Texture: {fileID: 2800000, guid: fa62356a8d1c08541afb53c0f045de8f, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _CliffColormap
+        second:
+          m_Texture: {fileID: 2800000, guid: e9b099316aba34e478eb84cedbb9682b, type: 3}
+          m_Scale: {x: 80, y: 80}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _CliffNormalmap
+        second:
+          m_Texture: {fileID: 2800000, guid: 99d030bb0a3411440987d3db832cb7ec, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _CliffDetailmap
+        second:
+          m_Texture: {fileID: 2800000, guid: 4aed816497c4db149bd7c09f9520c94f, type: 3}
+          m_Scale: {x: 300, y: 300}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _CliffDetailNormalmap
+        second:
+          m_Texture: {fileID: 2800000, guid: 936a25a2b83a81343826beba4c17dcda, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Height
+        second:
+          m_Texture: {fileID: 2800000, guid: fa62356a8d1c08541afb53c0f045de8f, type: 3}
+          m_Scale: {x: .0500000007, y: .0500000007}
+          m_Offset: {x: .5, y: .5}
+      data:
+        first:
+          name: unity_SpecCube
+        second:
+          m_Texture: {fileID: 8900000, guid: 974ac51f7c9d1004b89cb94fb7009210, type: 2}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _DiffuseIBL
+        second:
+          m_Texture: {fileID: 8900000, guid: 9562af3a21060fd4c887f7253b973220, type: 2}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _MaskRBlend1GBlend2BWater
+        second:
+          m_Texture: {fileID: 2800000, guid: 2771aa38b9f1c464a972421e5261f03e, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _BaseColorMap
+        second:
+          m_Texture: {fileID: 2800000, guid: 9bbe4ad8d405158408f8230a5a3550ef, type: 3}
+          m_Scale: {x: 4, y: 4}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _BlendColorMap2
+        second:
+          m_Texture: {fileID: 2800000, guid: 32bb4407d94068540ac0d2ff91043fb9, type: 3}
+          m_Scale: {x: 10, y: 10}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _BlendColorMap3
+        second:
+          m_Texture: {fileID: 2800000, guid: 63e44440993d29b4e9e0e21f532ab101, type: 3}
+          m_Scale: {x: 10, y: 10}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _GlobalColorMap
+        second:
+          m_Texture: {fileID: 2800000, guid: 9bbe4ad8d405158408f8230a5a3550ef, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _GlobalNormalMap
+        second:
+          m_Texture: {fileID: 2800000, guid: fbcb0574942922d4198dcad2e8eb8993, type: 3}
+          m_Scale: {x: .0500000007, y: .0500000007}
+          m_Offset: {x: .5, y: .5}
+      data:
+        first:
+          name: _node_785
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _GlobalColormap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _node_1073
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _gradient
+        second:
+          m_Texture: {fileID: 2800000, guid: 0b11371315a91794eb290f111f115746, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _diffuse
+        second:
+          m_Texture: {fileID: 2800000, guid: 1b42b7ca3011efc4a8b7d09e907ec794, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _node_58
+        second:
+          m_Texture: {fileID: 2800000, guid: f8e4c48b2f37d7e42b81dcadaf19f7f8, type: 3}
+          m_Scale: {x: 100, y: 100}
+          m_Offset: {x: .5, y: .5}
+      data:
+        first:
+          name: _node_70
+        second:
+          m_Texture: {fileID: 2800000, guid: a321a66bc9c7ee24386d9a5126691930, type: 3}
+          m_Scale: {x: 50, y: 50}
+          m_Offset: {x: .5, y: .5}
+      data:
+        first:
+          name: _GlobalNormalmap
+        second:
+          m_Texture: {fileID: 2800000, guid: fbcb0574942922d4198dcad2e8eb8993, type: 3}
+          m_Scale: {x: 20, y: 20}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _GlobalColorMapAWaterMask
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _HorizonFalloffGradientA
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _WaterMask
+        second:
+          m_Texture: {fileID: 2800000, guid: 2771aa38b9f1c464a972421e5261f03e, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _MainColorMap2
+        second:
+          m_Texture: {fileID: 2800000, guid: 63e44440993d29b4e9e0e21f532ab101, type: 3}
+          m_Scale: {x: 10, y: 10}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _CliffColormap3
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _Cutoff
+        second: .5
+      data:
+        first:
+          name: _Height
+        second: 0
+      data:
+        first:
+          name: _IBLMulti
+        second: 2.73000002
+      data:
+        first:
+          name: _DiffuseMulti
+        second: 2
+      data:
+        first:
+          name: _AmbientvsIBL
+        second: 1
+      data:
+        first:
+          name: _Tiling
+        second: 500
+      data:
+        first:
+          name: _Detail
+        second: 1
+      data:
+        first:
+          name: dummy_begin
+        second: 1
+      data:
+        first:
+          name: _LayerCount
+        second: 3
+      data:
+        first:
+          name: _Normalmaps
+        second: 1
+      data:
+        first:
+          name: dummy_main
+        second: 1
+      data:
+        first:
+          name: _MapScaleOffset
+        second: 1
+      data:
+        first:
+          name: _LocalSpace
+        second: 0
+      data:
+        first:
+          name: _DirectSpec
+        second: 1
+      data:
+        first:
+          name: _Emissiveness
+        second: 1
+      data:
+        first:
+          name: _AmbientIBL
+        second: 1
+      data:
+        first:
+          name: _GlobalNormalmapIntensity
+        second: 1
+      data:
+        first:
+          name: dummy_layer1
+        second: 1
+      data:
+        first:
+          name: _BaseGloss
+        second: 0
+      data:
+        first:
+          name: _BaseEmission
+        second: 0
+      data:
+        first:
+          name: _BaseDetailIntensity
+        second: 1
+      data:
+        first:
+          name: dummy_layer2
+        second: 1
+      data:
+        first:
+          name: _BlendGloss1
+        second: 0
+      data:
+        first:
+          name: _BlendEmission1
+        second: 0
+      data:
+        first:
+          name: _BlendDetailIntensity1
+        second: 1
+      data:
+        first:
+          name: dummy_layer3
+        second: 1
+      data:
+        first:
+          name: _BlendGloss2
+        second: 0
+      data:
+        first:
+          name: _BlendEmission2
+        second: 0
+      data:
+        first:
+          name: _BlendDetailIntensity2
+        second: 1
+      data:
+        first:
+          name: dummy_layer4
+        second: 1
+      data:
+        first:
+          name: _BlendGloss3
+        second: 0
+      data:
+        first:
+          name: _BlendEmission3
+        second: 0
+      data:
+        first:
+          name: _BlendDetailIntensity3
+        second: 1
+      data:
+        first:
+          name: dummy_detail
+        second: 1
+      data:
+        first:
+          name: _DetailColormapIntensity
+        second: .150000006
+      data:
+        first:
+          name: _DetailNormalmapIntensity
+        second: 1
+      data:
+        first:
+          name: dummy_water
+        second: 1
+      data:
+        first:
+          name: _Water
+        second: 1
+      data:
+        first:
+          name: _WaterBlend
+        second: 1
+      data:
+        first:
+          name: _WaterWaves
+        second: .230000004
+      data:
+        first:
+          name: _WaterWaveSpeed
+        second: 1
+      data:
+        first:
+          name: dummy_ambient
+        second: 1
+      data:
+        first:
+          name: _IBLDiff
+        second: 1
+      data:
+        first:
+          name: _DiffIBLMulti
+        second: 1
+      data:
+        first:
+          name: dummy_specular
+        second: 1
+      data:
+        first:
+          name: _IBLSpec
+        second: 1
+      data:
+        first:
+          name: _IBLSpecRoughMIP
+        second: 5
+      data:
+        first:
+          name: _IBLMIPDim_Rough
+        second: 0
+      data:
+        first:
+          name: _IBLSpecGlossMIP
+        second: .200000003
+      data:
+        first:
+          name: _IBLMIPDim_Gloss
+        second: 1
+      data:
+        first:
+          name: dummy_displacement
+        second: 1
+      data:
+        first:
+          name: _Parallax
+        second: 200
+      data:
+        first:
+          name: _ReduceByVertexAlpha
+        second: 0
+      data:
+        first:
+          name: dummy_fog
+        second: 0
+      data:
+        first:
+          name: _OverlayFog
+        second: 0
+      data:
+        first:
+          name: _OverlayFogAmount
+        second: .5
+      data:
+        first:
+          name: _OverlayFogAmountFromReflCubemap
+        second: 1
+      data:
+        first:
+          name: _OverlayFogStartDistance
+        second: 0
+      data:
+        first:
+          name: _OverlayFogDistanceTransition
+        second: 100
+      data:
+        first:
+          name: _OverlayFogStartHeight
+        second: 0
+      data:
+        first:
+          name: _OverlayFogHeightTransition
+        second: 100
+      data:
+        first:
+          name: _OverlayFogDistance2Height
+        second: 0
+      data:
+        first:
+          name: _OverlayFogEmissivePunchThru
+        second: 0
+      data:
+        first:
+          name: dummy_cliff
+        second: 0
+      data:
+        first:
+          name: _CliffGloss
+        second: 0
+      data:
+        first:
+          name: _CliffEmission
+        second: 0
+      data:
+        first:
+          name: dummy_cliffdetail
+        second: 0
+      data:
+        first:
+          name: _CliffDetail
+        second: 2
+      data:
+        first:
+          name: _CliffDetailColorIntensity
+        second: 1
+      data:
+        first:
+          name: dummy_cliff_normal_info
+        second: 0
+      data:
+        first:
+          name: _CliffDetailNormalIntensity
+        second: 1
+      data:
+        first:
+          name: _EmissionMulti
+        second: 0
+      data:
+        first:
+          name: _Scale
+        second: 500
+      data:
+        first:
+          name: _X
+        second: 1
+      data:
+        first:
+          name: _Z
+        second: 1
+      data:
+        first:
+          name: _EdgeLength
+        second: 8.30000019
+      data:
+        first:
+          name: dummy_disk
+        second: 0
+      data:
+        first:
+          name: _ScaleInner
+        second: 1.09375
+      data:
+        first:
+          name: _ScaleOuter
+        second: 3
+      data:
+        first:
+          name: _ScaleHeight
+        second: .821428537
+      data:
+        first:
+          name: _MapScalem
+        second: 5000
+      data:
+        first:
+          name: _MapOffsetXm
+        second: 0
+      data:
+        first:
+          name: _MapOffsetZm
+        second: 0
+      data:
+        first:
+          name: _MainSpecularity
+        second: .0299999993
+      data:
+        first:
+          name: _MainGloss
+        second: .232142881
+      data:
+        first:
+          name: _AmbientIBLMulti
+        second: .400000006
+      data:
+        first:
+          name: _OverlayFogEndDistance
+        second: 1000
+      data:
+        first:
+          name: _WaterSpecularity
+        second: 1
+      data:
+        first:
+          name: _WaterGloss
+        second: .875
+      data:
+        first:
+          name: _WaterFresnel
+        second: 1
+      data:
+        first:
+          name: _ScaleTransition
+        second: 62.0200005
+      data:
+        first:
+          name: _ScaleRadius
+        second: 9000
+      data:
+        first:
+          name: _ScaleTransition_copy
+        second: 241.660004
+      data:
+        first:
+          name: _Scale_copy
+        second: 100000
+      data:
+        first:
+          name: _LocalSpaceGlobalSpace
+        second: 1
+      data:
+        first:
+          name: _LitvsUnlit
+        second: 0
+      data:
+        first:
+          name: _DepthBlend
+        second: 0
+      data:
+        first:
+          name: _DetailColorDesaturate
+        second: .553571403
+      data:
+        first:
+          name: _GlobalNormalmapIntensity_copy
+        second: 1
+      data:
+        first:
+          name: _WaterColorAmount
+        second: .678571403
+      data:
+        first:
+          name: _LocalvsGlobalSpace
+        second: 1
+      data:
+        first:
+          name: _DetailColorBlend
+        second: 0
+      data:
+        first:
+          name: _WaterAnimationSpeed
+        second: 1
+      data:
+        first:
+          name: _node_1235
+        second: .0299999993
+      data:
+        first:
+          name: _AdvIBLProps
+        second: 1
+      data:
+        first:
+          name: _IBL_HDR
+        second: 1
+      data:
+        first:
+          name: dummy1
+        second: 1
+      data:
+        first:
+          name: dummy3
+        second: 0
+      data:
+        first:
+          name: dummy6
+        second: 0
+      data:
+        first:
+          name: _Noralmaps
+        second: 0
+      data:
+        first:
+          name: dummy4
+        second: 0
+      data:
+        first:
+          name: dummy_layers
+        second: 0
+      data:
+        first:
+          name: _Emmissiveness
+        second: 1
+      data:
+        first:
+          name: _CliffDetailGloss
+        second: 0
+      data:
+        first:
+          name: _OverlayFogEndHeight
+        second: 1130.80005
+      data:
+        first:
+          name: dummy_tessellation
+        second: 1
+      data:
+        first:
+          name: _OverlayFogAmountLowSun
+        second: 1
+      data:
+        first:
+          name: _OverlayFogAmountScattering
+        second: 3.375
+      data:
+        first:
+          name: _Snow
+        second: 1
+      data:
+        first:
+          name: dummy_snow
+        second: 1
+      data:
+        first:
+          name: _SnowAmount
+        second: 0
+      data:
+        first:
+          name: _SnowHeight
+        second: 100
+      data:
+        first:
+          name: _SnowHeightTransition
+        second: 300
+      data:
+        first:
+          name: _SnowSlopeDamp
+        second: 4
+      data:
+        first:
+          name: _SnowOutputColorBrightness2Coverage
+        second: 0
+      data:
+        first:
+          name: _ReduceByUVBorder
+        second: 1
+      data:
+        first:
+          name: _ReduceByUVBorderLength
+        second: 0
+    m_Colors:
+      data:
+        first:
+          name: _Color
+        second: {r: .699999988, g: .699999988, b: .699999988, a: 1}
+      data:
+        first:
+          name: _MapScaleOffset
+        second: {r: 10000, g: 10000, b: 5000, a: 5000}
+      data:
+        first:
+          name: _Tint
+        second: {r: 1, g: 1, b: 1, a: 0}
+      data:
+        first:
+          name: _EmissionColor
+        second: {r: 1, g: 1, b: 1, a: .0588235296}
+      data:
+        first:
+          name: _AmbientOverrideAAmount
+        second: {r: .861591697, g: .935190976, b: .97647059, a: 1}
+      data:
+        first:
+          name: _SpecGloss
+        second: {r: 0, g: 0, b: 0, a: 0}
+      data:
+        first:
+          name: _SpecGlossBlend1
+        second: {r: 0, g: 0, b: 0, a: 0}
+      data:
+        first:
+          name: _SpecGlossBlend2
+        second: {r: 0, g: 0, b: 0, a: 0}
+      data:
+        first:
+          name: _SpecGlossBlend3
+        second: {r: 0, g: 0, b: 0, a: 0}
+      data:
+        first:
+          name: _WaterColorAColorBlend
+        second: {r: 0, g: .13333334, b: .103249781, a: .952941179}
+      data:
+        first:
+          name: _WaterSpecGloss
+        second: {r: 0, g: 0, b: 0, a: .960784316}
+      data:
+        first:
+          name: _OverlayFogColorAfromAmbient
+        second: {r: 0, g: 0, b: 0, a: 0}
+      data:
+        first:
+          name: _SpecGlossCliff
+        second: {r: .154411793, g: .154411793, b: .154411793, a: .227450982}
+      data:
+        first:
+          name: _Offset
+        second: {r: 0, g: 2000, b: 0, a: 2}
+      data:
+        first:
+          name: _SpecularColorAGloss
+        second: {r: .441176474, g: .441176474, b: .441176474, a: .0784313753}
+      data:
+        first:
+          name: _WaterColorABlend
+        second: {r: .0817607716, g: .154427961, b: .097296752, a: 1}
+      data:
+        first:
+          name: _WaterSpecularityAGloss
+        second: {r: .691180527, g: .691180527, b: .691180527, a: .670588255}
+      data:
+        first:
+          name: _tint
+        second: {r: .580882311, g: .535519302, b: .486916065, a: 1}
+      data:
+        first:
+          name: _WaterColorAAmount
+        second: {r: .201454774, g: .355462074, b: .507358551, a: 0}
+      data:
+        first:
+          name: _OverlayFogColorAfromAmbientLowSun
+        second: {r: .977941155, g: .459463716, b: .0934796408, a: 0}
+      data:
+        first:
+          name: _TintSaturation
+        second: {r: .501960814, g: .501960814, b: .501960814, a: .501960814}
+      data:
+        first:
+          name: _TintSaturationBlend1
+        second: {r: .501960814, g: .501960814, b: .501960814, a: .501960814}
+      data:
+        first:
+          name: _TintSaturationBlend2
+        second: {r: .501960814, g: .501960814, b: .501960814, a: .501960814}
+      data:
+        first:
+          name: _TintSaturationBlend3
+        second: {r: .501960814, g: .501960814, b: .501960814, a: .501960814}
+      data:
+        first:
+          name: _SnowColor
+        second: {r: .578731239, g: .66413784, b: .752941191, a: 0}
+      data:
+        first:
+          name: _SnowSpecGloss
+        second: {r: .850980401, g: .850980401, b: .850980401, a: .109803922}

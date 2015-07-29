@@ -1,0 +1,192 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &107670
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 407670}
+  - 114: {fileID: 11407670}
+  m_Layer: 0
+  m_Name: DemoSceneSettings
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 1
+--- !u!4 &407670
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 107670}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11407670
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 107670}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d314ffd987252c949a878e1bd9479b56, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hMats: []
+  isPreset: 1
+  childUsesDisplacement: 0
+  childUsesTesselation: 0
+  childUsesCliffs: 0
+  childUsesTransition: 0
+  horizonChildAvailable: 0
+  drawGizmos: 0
+  gizmoColor: {r: 1, g: 1, b: 1, a: 1}
+  updateHorizonMaster: 1
+  showWireF: 1
+  getFromMaterialMat: {fileID: 0}
+  setFeatures: 1
+  getFeatures: 0
+  getMatSettings: 0
+  showMaterials: 0
+  showFeatures: 1
+  showScaling: 1
+  showMainSettings: 1
+  showDetailSettings: 1
+  showWaterSettings: 1
+  showFogSettings: 1
+  showSnowSettings: 1
+  showIBLSettings: 1
+  showDispSettings: 1
+  showCliffSettings: 1
+  showTools: 1
+  hFeatLayerCount: 4
+  layerCount: 4
+  hFeatDiffLightMode: 1
+  hFeatNormalmaps: 1
+  hFeatEmissivness: 1
+  hFeatDetailTex: 1
+  hFeatWater: 1
+  hFeatFog: 1
+  hFeatSnow: 1
+  hFeatDirSpec: 1
+  hFeatCubeRefl: 1
+  hSetScaleInner: .889999986
+  hSetScaleOuter: 0
+  hSetScaleHeight: .180000007
+  hSetMaskScaleOffset: {x: 12364, y: 12364, z: 9158, w: 9832}
+  hSetLockMask: 1
+  hTexMask: {fileID: 2800000, guid: 2771aa38b9f1c464a972421e5261f03e, type: 3}
+  hColTint: {r: .99999994, g: .99999994, b: .99999994, a: 0}
+  hColEmissColor: {r: .99999994, g: .99999994, b: .99999994, a: .0588235296}
+  hColAmbOverride: {r: .861672163, g: .935230196, b: .976485312, a: .470588237}
+  hSetAmbvsIBL: .670000017
+  hSetNMIntensLayers: 1
+  hSetLayerProps:
+  - showLayerSettings: 0
+    hSetLayerScaleOffset: {x: 2.33196378, y: 2.33196378, z: -.1220112, w: .475998282}
+    hTexLayerDiff: {fileID: 2800000, guid: 9bbe4ad8d405158408f8230a5a3550ef, type: 3}
+    hTexLayerNM: {fileID: 2800000, guid: fbcb0574942922d4198dcad2e8eb8993, type: 3}
+    hSetAIsGlossMask: 0
+    hSetAIsEmissMask: 0
+    hColLayerTint: {r: .50218153, g: .50218153, b: .50218153, a: .501960814}
+    hColLayerSpecGloss: {r: 0, g: 0, b: 0, a: 0}
+    hSetLayerDetIntens: 1
+  - showLayerSettings: 0
+    hSetLayerScaleOffset: {x: 2.67600346, y: 2.67600346, z: 1.38000798, w: 1.25600493}
+    hTexLayerDiff: {fileID: 2800000, guid: 2b2e7a7998f2785489fc9969aa0afe59, type: 3}
+    hTexLayerNM: {fileID: 2800000, guid: 5459dedd98afae542aa59b26ea951b57, type: 3}
+    hSetAIsGlossMask: 0
+    hSetAIsEmissMask: 0
+    hColLayerTint: {r: .50218153, g: .50218153, b: .50218153, a: .501960814}
+    hColLayerSpecGloss: {r: 0, g: 0, b: 0, a: 0}
+    hSetLayerDetIntens: 1
+  - showLayerSettings: 0
+    hSetLayerScaleOffset: {x: 10.2260056, y: 10.2260056, z: .665998936, w: .5}
+    hTexLayerDiff: {fileID: 2800000, guid: 32bb4407d94068540ac0d2ff91043fb9, type: 3}
+    hTexLayerNM: {fileID: 2800000, guid: d7a28b5ff85102244bfcdf46875052a5, type: 3}
+    hSetAIsGlossMask: 0
+    hSetAIsEmissMask: 0
+    hColLayerTint: {r: .50218153, g: .50218153, b: .50218153, a: .501960814}
+    hColLayerSpecGloss: {r: 0, g: 0, b: 0, a: 0}
+    hSetLayerDetIntens: 1
+  - showLayerSettings: 0
+    hSetLayerScaleOffset: {x: 14.9780025, y: 14.9780025, z: .968001008, w: .99200058}
+    hTexLayerDiff: {fileID: 2800000, guid: 63e44440993d29b4e9e0e21f532ab101, type: 3}
+    hTexLayerNM: {fileID: 2800000, guid: bd6b8928218824f46bb034c2ea565f42, type: 3}
+    hSetAIsGlossMask: 0
+    hSetAIsEmissMask: 0
+    hColLayerTint: {r: .50218153, g: .50218153, b: .50218153, a: .501960814}
+    hColLayerSpecGloss: {r: 0, g: 0, b: 0, a: 0}
+    hSetLayerDetIntens: 1
+  hSetDetailScaleOffset: {x: 97.3002625, y: 97.3002625, z: .0959999412, w: .274000198}
+  hTexDetailTexDiff: {fileID: 2800000, guid: c99098516ff204644a834e3696fa65ee, type: 3}
+  hTexDetailTexNM: {fileID: 2800000, guid: 6aa2fcbd18366214c8f601beb37a8bee, type: 3}
+  hSetDetailDiffIntens: .0599999987
+  hSetDetailNMIntens: 1
+  hTexWaterNM: {fileID: 2800000, guid: db106602c484ead42924297aa3f4faef, type: 3}
+  hSetWaterScaleOffset: {x: 100.699997, y: 100.699997, z: 0, w: 0}
+  hColWaterColorOpac: {r: 0, g: .133535042, b: .103436321, a: .952941179}
+  hColWaterSpecGloss: {r: 0, g: 0, b: 0, a: 1}
+  hSetWaterBlend: 1
+  hSetWaterWavesIntens: .150000006
+  HSetWaterWavesSpeed: 1
+  hSetFogIntens: 1
+  hColFogColorAmbBlend: {r: .874624431, g: .902360678, b: .921592534, a: .592156887}
+  hSetFogSpecCubeAdd: .310000002
+  hSetFogStartDist: 1000
+  hSetFogTransDist: 14586
+  hSetFogStartHeight: 0
+  hSetFogTransHeight: 196
+  hSetFogDistHeightOffset: -100
+  hSetFogEmissPunchThru: 0
+  hsetSnowAmount: .109999999
+  hColSnowDiffColor: {r: .847106338, g: .92206347, b: .99999994, a: 0}
+  hColSnowSpecGloss: {r: .851066232, g: .851066232, b: .851066232, a: .109803922}
+  hSetSnowStartHeight: 70
+  hSetSnowHeightTrans: 760
+  hSetSnowSlopeDamp: .74000001
+  hSetSnowReduceByColor: .649999976
+  hCubeIBLDiff: {fileID: 8900000, guid: 7b57adce88768b34a8152854fdf0e99f, type: 2}
+  hSetIBLExposure: .672006607
+  hCubeIBLSpec: {fileID: 8900000, guid: afbbb89b2b968674883779137ba27c92, type: 2}
+  hSetSpecRoughMIPLevel: 5
+  hSetSpecRoughMulti: .200000003
+  hSetSpecGlossMIPLevel: .200000003
+  hSetSpecGlossMulti: 1
+  hSetDispHeight: 202
+  hSetDispRedByVertCol: 0
+  hSetDispRedByUV: 1
+  hSetDispRedFadeAmount: 1
+  hTexDispHeightmap: {fileID: 2800000, guid: fa62356a8d1c08541afb53c0f045de8f, type: 3}
+  hSetTessSubD: 1
+  hTexCliffDiff: {fileID: 2800000, guid: e9b099316aba34e478eb84cedbb9682b, type: 3}
+  hSetCliffScaleOffset: {x: 53.41959, y: 53.41959, z: .100000001, w: .200000003}
+  hSetCliffAIsGlossMask: 1
+  hSetCliffAIsEmissMask: 0
+  hColCliffSpecGloss: {r: .651546359, g: .651546359, b: .651546359, a: 0}
+  hTexCliffNM: {fileID: 2800000, guid: 99d030bb0a3411440987d3db832cb7ec, type: 3}
+  hSetCliffDetailMode: 2
+  hTexCliffDetDiff: {fileID: 2800000, guid: c99098516ff204644a834e3696fa65ee, type: 3}
+  hSetCliffDetScaleOffset: {x: 227.900452, y: 227.900452, z: 0, w: 0}
+  hTexCliffDetNM: {fileID: 2800000, guid: 6aa2fcbd18366214c8f601beb37a8bee, type: 3}
+  hSetCliffDetDiffIntens: .200000003
+  hSetCliffDetNMIntens: 1
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 107670}
+  m_IsPrefabParent: 1
+  m_IsExploded: 1
