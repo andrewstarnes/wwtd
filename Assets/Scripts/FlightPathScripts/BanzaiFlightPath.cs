@@ -26,8 +26,8 @@ namespace FlightPathManager
 		}
 
 		void Update() {
-			if(target!=null&&currentNode.magnitude==0) {
-				this.currentNode = new Vector3(target.transform.position.x,target.transform.position.y,cruiseAltitude);
+			if(target!=null&&currentNode.transform.position.magnitude==0) {
+			//	this.currentNode = new Vector3(target.transform.position.x,target.transform.position.y,cruiseAltitude);
 			}
 		}
 	}

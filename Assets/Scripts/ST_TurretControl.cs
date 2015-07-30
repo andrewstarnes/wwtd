@@ -44,7 +44,7 @@ public class ST_TurretControl : MonoBehaviour {
 	MF_AbstractTargeting targetingScript;
 	ST_Turret turretScript;
 	ST_Player playerScript;
-	float targetSize;
+	float targetSize = 10f;
 	float lastLosCheck;
 	float lastFire;
 	float oldTurnWeapInaccuracy;
@@ -57,7 +57,7 @@ public class ST_TurretControl : MonoBehaviour {
 		public GameObject weapon;
 		[HideInInspector] public MF_BasicWeapon script;
 	}
-	
+
 	void Start () {
 		if (CheckErrors() == true) { return; }
 		

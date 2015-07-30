@@ -6,13 +6,15 @@ namespace FlightPathManager {
 	
 		public FlightPath followThisPath;
 		public int currentIndex = -1;
-		public Vector3 currentNode;
+		public FlightPathPoint currentNode;
 		public float distThreshold = 3f;
 
 		public float turnSpeed = 30f;
 		public float maxBank = 90f;
 		public float moveSpeed = 4f;
 		public float lastBank = 0f;
+
+		public float altitudeAdjust = 0f;
 		public Transform banker;
 		// Use this for initialization
 		void Start () {
@@ -21,7 +23,9 @@ namespace FlightPathManager {
 		private void GetNextNode() {
 			currentIndex++;
 			if(currentIndex<followThisPath.path.Length) {
-				currentNode = followThisPath.path[currentIndex].transform.position;	
+				currentNode = followThisPath.path[currentIndex];	
+			} else {
+				
 			}
 		}
 		
@@ -31,13 +35,16 @@ namespace FlightPathManager {
 			followPath();
 		}
 		protected void followPath() {
-			if(currentNode.magnitude==0f||distanceToCurrent<distThreshold) {
-				GetNextNode();
+			if(currentNode==null||currentNode.transform.position.magnitude==0f||distanceToCurrent<distThreshold) {
+				if(currentNode!=null&&currentNode.hasEscapedHere) {
+					Destroy(this.gameObject);
+				} else
+					GetNextNode();
 			}
-			if(currentNode.magnitude!=0f) {
-				Debug.DrawLine(transform.position,currentNode,Color.cyan);
+			if(currentNode.transform.position.magnitude!=0f) {
+				Debug.DrawLine(transform.position,currentNode.transform.position,Color.cyan);
 				
-				Vector3 currentTarget = currentNode;
+				Vector3 currentTarget = new Vector3(currentNode.transform.position.x,currentNode.transform.position.y+altitudeAdjust,currentNode.transform.position.z);
 				Vector3 lookDirection = currentTarget - transform.position;
 				Vector3 normalizedLookDirection = lookDirection.normalized;
 				float bank = maxBank * -Vector3.Dot(transform.right, normalizedLookDirection);
@@ -62,7 +69,9 @@ namespace FlightPathManager {
 		}
 		float distanceToCurrent {
 			get {
-				return Vector3.Distance(this.transform.position,currentNode);
+				Vector3 currentTarget = new Vector3(currentNode.transform.position.x,currentNode.transform.position.y+altitudeAdjust,currentNode.transform.position.z);
+				
+				return Vector3.Distance(this.transform.position,currentTarget);
 			}
 		}
 	}

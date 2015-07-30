@@ -1,6 +1,10 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+[RequireComponent (typeof (MF_BasicScanner))]
+[RequireComponent (typeof (MF_TargetList))]
+[RequireComponent (typeof (ST_TurretControl))]
+[RequireComponent (typeof (MF_BasicTargeting))] 
 public class ST_Turret : MF_AbstractPlatform {
 	[Tooltip("Turret will aim ahead to hit a moving target.")]
 	public bool useIntercept = true;

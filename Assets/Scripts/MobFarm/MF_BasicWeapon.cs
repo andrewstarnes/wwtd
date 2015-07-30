@@ -111,7 +111,8 @@ public class MF_BasicWeapon : MonoBehaviour {
 		// create shot
 		for (int spr=0; spr < shotsPerRound; spr++) {
 			GameObject myShot = null;
-			recoiler.recoil();
+			if(recoiler!=null)
+				recoiler.recoil();
 			shot.TryGetNextObject(exits[curExit].transform.position,exits[curExit].transform.rotation,out myShot);
 			/*if(myShot==null) {
 				myShot = (GameObject) Instantiate(shot.Template, exits[curExit].transform.position, exits[curExit].transform.rotation);

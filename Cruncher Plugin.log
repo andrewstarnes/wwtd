@@ -5402,3 +5402,4493 @@ INFO: quality=0.000000, quantity=130
 TRACE: Exiting AdjustMesh
 TRACE: Entering PluginShutdown
 TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x1747f0020.
+Info: Array length 1 is 1359 and pointer is 0x174d0a020.
+Info: Array length 2 is 333 and pointer is 0x15d43c020.
+Info: Array length 3 is 333 and pointer is 0x15d457020.
+Info: Array length 4 is 333 and pointer is 0x15d495020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x174d4b020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 1359 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 139, 132, 165.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.000000, quantity=109
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 327 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 44, 42, 52.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x15ae70020.
+Info: Array length 1 is 1359 and pointer is 0x1748f6020.
+Info: Array length 2 is 333 and pointer is 0x148452020.
+Info: Array length 3 is 333 and pointer is 0x148466020.
+Info: Array length 4 is 333 and pointer is 0x14848a020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x174a1a020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.000000, quantity=109
+TRACE: Exiting AdjustMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x15cd16020.
+Info: Array length 1 is 1359 and pointer is 0x15cd17020.
+Info: Array length 2 is 333 and pointer is 0x144dab020.
+Info: Array length 3 is 333 and pointer is 0x144dae020.
+Info: Array length 4 is 333 and pointer is 0x134430020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x174cbe020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.022099, quantity=117
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 351 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 48, 46, 56.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x15d4bf020.
+Info: Array length 1 is 1359 and pointer is 0x15cc9c020.
+Info: Array length 2 is 333 and pointer is 0x15cca0020.
+Info: Array length 3 is 333 and pointer is 0x15cca3020.
+Info: Array length 4 is 333 and pointer is 0x15cca7020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x15ccb4020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.038674, quantity=121
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 363 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 48, 46, 56.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x174d7c020.
+Info: Array length 1 is 1359 and pointer is 0x174d7d020.
+Info: Array length 2 is 333 and pointer is 0x174979020.
+Info: Array length 3 is 333 and pointer is 0x17497c020.
+Info: Array length 4 is 333 and pointer is 0x17497f020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x144deb020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.060773, quantity=129
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 387 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 49, 47, 58.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x174abf020.
+Info: Array length 1 is 1359 and pointer is 0x174ac0020.
+Info: Array length 2 is 333 and pointer is 0x174ac4020.
+Info: Array length 3 is 333 and pointer is 0x15adba020.
+Info: Array length 4 is 333 and pointer is 0x15adbd020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x15ae68020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.071823, quantity=133
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 399 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 50, 48, 59.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x174c47020.
+Info: Array length 1 is 1359 and pointer is 0x174c48020.
+Info: Array length 2 is 333 and pointer is 0x174c4c020.
+Info: Array length 3 is 333 and pointer is 0x174c4f020.
+Info: Array length 4 is 333 and pointer is 0x174def020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x174e15020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.082873, quantity=137
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 411 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 53, 51, 62.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x174d14020.
+Info: Array length 1 is 1359 and pointer is 0x174d15020.
+Info: Array length 2 is 333 and pointer is 0x15ccb8020.
+Info: Array length 3 is 333 and pointer is 0x15ccbb020.
+Info: Array length 4 is 333 and pointer is 0x15ccbe020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x174c7d020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.104972, quantity=145
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 435 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 53, 51, 65.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x174e5b020.
+Info: Array length 1 is 1359 and pointer is 0x174e5c020.
+Info: Array length 2 is 333 and pointer is 0x174e60020.
+Info: Array length 3 is 333 and pointer is 0x174e63020.
+Info: Array length 4 is 333 and pointer is 0x174e66020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x15adfe020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.110497, quantity=147
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 441 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 53, 51, 66.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x174b2f020.
+Info: Array length 1 is 1359 and pointer is 0x174b30020.
+Info: Array length 2 is 333 and pointer is 0x174b34020.
+Info: Array length 3 is 333 and pointer is 0x174b37020.
+Info: Array length 4 is 333 and pointer is 0x174b3a020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x174b46020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.110497, quantity=147
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 441 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 53, 51, 66.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x174c0d020.
+Info: Array length 1 is 1359 and pointer is 0x174c39020.
+Info: Array length 2 is 333 and pointer is 0x174c5d020.
+Info: Array length 3 is 333 and pointer is 0x174c97020.
+Info: Array length 4 is 333 and pointer is 0x174cb6020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x174c74020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.132597, quantity=155
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 465 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 59, 57, 72.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x174d32020.
+Info: Array length 1 is 1359 and pointer is 0x174cfd020.
+Info: Array length 2 is 333 and pointer is 0x174d47020.
+Info: Array length 3 is 333 and pointer is 0x174d70020.
+Info: Array length 4 is 333 and pointer is 0x174d7a020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x174d67020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.138122, quantity=157
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 471 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 60, 58, 73.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x174de0020.
+Info: Array length 1 is 1359 and pointer is 0x174d6d020.
+Info: Array length 2 is 333 and pointer is 0x174e0d020.
+Info: Array length 3 is 333 and pointer is 0x174e29020.
+Info: Array length 4 is 333 and pointer is 0x174e3a020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x174dbf020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.143646, quantity=159
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 477 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 61, 59, 74.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x174ea6020.
+Info: Array length 1 is 1359 and pointer is 0x174dc9020.
+Info: Array length 2 is 333 and pointer is 0x174ee6020.
+Info: Array length 3 is 333 and pointer is 0x174f33020.
+Info: Array length 4 is 333 and pointer is 0x174f48020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x174e04020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.165746, quantity=167
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 501 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 67, 64, 81.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x174831020.
+Info: Array length 1 is 1359 and pointer is 0x174e41020.
+Info: Array length 2 is 333 and pointer is 0x17486e020.
+Info: Array length 3 is 333 and pointer is 0x17487d020.
+Info: Array length 4 is 333 and pointer is 0x1748a6020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x174ef3020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.176796, quantity=171
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 513 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 69, 66, 83.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x174917020.
+Info: Array length 1 is 1359 and pointer is 0x174f02020.
+Info: Array length 2 is 333 and pointer is 0x174939020.
+Info: Array length 3 is 333 and pointer is 0x17495c020.
+Info: Array length 4 is 333 and pointer is 0x174970020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x174f58020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.182320, quantity=173
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 519 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 70, 66, 84.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x1749f7020.
+Info: Array length 1 is 1359 and pointer is 0x174f75020.
+Info: Array length 2 is 333 and pointer is 0x174a65020.
+Info: Array length 3 is 333 and pointer is 0x174a6b020.
+Info: Array length 4 is 333 and pointer is 0x174a8f020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x174fa0020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.187845, quantity=175
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 525 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 70, 66, 85.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x174b14020.
+Info: Array length 1 is 1359 and pointer is 0x174834020.
+Info: Array length 2 is 333 and pointer is 0x174b1f020.
+Info: Array length 3 is 333 and pointer is 0x1747d6020.
+Info: Array length 4 is 333 and pointer is 0x1747f0020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x174887020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.193370, quantity=177
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 531 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 72, 68, 87.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x15ad82020.
+Info: Array length 1 is 1359 and pointer is 0x17489a020.
+Info: Array length 2 is 333 and pointer is 0x15ad95020.
+Info: Array length 3 is 333 and pointer is 0x15adc8020.
+Info: Array length 4 is 333 and pointer is 0x15adde020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x1748be020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.193370, quantity=177
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 531 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 72, 68, 87.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x148464020.
+Info: Array length 1 is 1359 and pointer is 0x1748f7020.
+Info: Array length 2 is 333 and pointer is 0x148470020.
+Info: Array length 3 is 333 and pointer is 0x14847a020.
+Info: Array length 4 is 333 and pointer is 0x148490020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x17493b020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.215470, quantity=184
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 552 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 75, 71, 90.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x13440b020.
+Info: Array length 1 is 1359 and pointer is 0x17495e020.
+Info: Array length 2 is 333 and pointer is 0x134448020.
+Info: Array length 3 is 333 and pointer is 0x134357020.
+Info: Array length 4 is 333 and pointer is 0x134376020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x174999020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.215470, quantity=184
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 552 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 75, 71, 90.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x13383e020.
+Info: Array length 1 is 1359 and pointer is 0x1749a8020.
+Info: Array length 2 is 333 and pointer is 0x13384e020.
+Info: Array length 3 is 333 and pointer is 0x13385b020.
+Info: Array length 4 is 333 and pointer is 0x13386c020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x1749ee020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.220994, quantity=185
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 555 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 75, 71, 90.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x132e1f020.
+Info: Array length 1 is 1359 and pointer is 0x174a0f020.
+Info: Array length 2 is 333 and pointer is 0x132e3d020.
+Info: Array length 3 is 333 and pointer is 0x132e56020.
+Info: Array length 4 is 333 and pointer is 0x132e63020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x174a41020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.226519, quantity=186
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 558 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 75, 71, 90.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x174b0b020.
+Info: Array length 1 is 1359 and pointer is 0x1747c4020.
+Info: Array length 2 is 333 and pointer is 0x1747cd020.
+Info: Array length 3 is 333 and pointer is 0x1747ed020.
+Info: Array length 4 is 333 and pointer is 0x15d44f020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x15d484020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.232044, quantity=187
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 561 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 75, 71, 90.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x15cd3d020.
+Info: Array length 1 is 1359 and pointer is 0x15cd44020.
+Info: Array length 2 is 333 and pointer is 0x15cd5d020.
+Info: Array length 3 is 333 and pointer is 0x15cd65020.
+Info: Array length 4 is 333 and pointer is 0x15cd6a020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x15adc5020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.237569, quantity=189
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 567 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 75, 71, 90.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x15ae44020.
+Info: Array length 1 is 1359 and pointer is 0x15ae48020.
+Info: Array length 2 is 333 and pointer is 0x148443020.
+Info: Array length 3 is 333 and pointer is 0x148448020.
+Info: Array length 4 is 333 and pointer is 0x148474020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x144d30020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.248619, quantity=192
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 576 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 75, 71, 90.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x144da4020.
+Info: Array length 1 is 1359 and pointer is 0x144db7020.
+Info: Array length 2 is 333 and pointer is 0x144dd9020.
+Info: Array length 3 is 333 and pointer is 0x144de3020.
+Info: Array length 4 is 333 and pointer is 0x144dfb020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x13442a020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.248619, quantity=192
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 576 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 75, 71, 90.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x133eb1020.
+Info: Array length 1 is 1359 and pointer is 0x133ec7020.
+Info: Array length 2 is 333 and pointer is 0x13381e020.
+Info: Array length 3 is 333 and pointer is 0x133822020.
+Info: Array length 4 is 333 and pointer is 0x13385d020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x133383020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.254144, quantity=194
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 582 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 75, 71, 90.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x132ab9020.
+Info: Array length 1 is 1359 and pointer is 0x132ac0020.
+Info: Array length 2 is 333 and pointer is 0x132ad2020.
+Info: Array length 3 is 333 and pointer is 0x174c37020.
+Info: Array length 4 is 333 and pointer is 0x174c41020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x174ca4020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.265193, quantity=198
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 594 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 76, 72, 91.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x174e6b020.
+Info: Array length 1 is 1359 and pointer is 0x174e6c020.
+Info: Array length 2 is 333 and pointer is 0x174e76020.
+Info: Array length 3 is 333 and pointer is 0x174e88020.
+Info: Array length 4 is 333 and pointer is 0x174e8c020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x174f3c020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.270718, quantity=200
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 600 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 77, 73, 92.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x174956020.
+Info: Array length 1 is 1359 and pointer is 0x174957020.
+Info: Array length 2 is 333 and pointer is 0x174986020.
+Info: Array length 3 is 333 and pointer is 0x1749a1020.
+Info: Array length 4 is 333 and pointer is 0x1749b7020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x174a26020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.276243, quantity=202
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 606 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 78, 74, 93.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x15d4ab020.
+Info: Array length 1 is 1359 and pointer is 0x15d4ae020.
+Info: Array length 2 is 333 and pointer is 0x15d4b4020.
+Info: Array length 3 is 333 and pointer is 0x15d4dc020.
+Info: Array length 4 is 333 and pointer is 0x15d4e3020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x15cce7020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.281768, quantity=204
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 612 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 78, 74, 93.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x144d3d020.
+Info: Array length 1 is 1359 and pointer is 0x144d48020.
+Info: Array length 2 is 333 and pointer is 0x144d4c020.
+Info: Array length 3 is 333 and pointer is 0x144d51020.
+Info: Array length 4 is 333 and pointer is 0x144da6020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x13441d020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.287293, quantity=206
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 618 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 78, 74, 93.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x1748fd020.
+Info: Array length 1 is 1359 and pointer is 0x1748fe020.
+Info: Array length 2 is 333 and pointer is 0x174909020.
+Info: Array length 3 is 333 and pointer is 0x17491c020.
+Info: Array length 4 is 333 and pointer is 0x17491f020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x1749df020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.287293, quantity=206
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 618 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 78, 74, 93.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x174a85020.
+Info: Array length 1 is 1359 and pointer is 0x174a86020.
+Info: Array length 2 is 333 and pointer is 0x174a8b020.
+Info: Array length 3 is 333 and pointer is 0x174ad6020.
+Info: Array length 4 is 333 and pointer is 0x174b0e020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x15d4f0020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.292818, quantity=208
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 624 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 78, 74, 93.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x144dcd020.
+Info: Array length 1 is 1359 and pointer is 0x144dce020.
+Info: Array length 2 is 333 and pointer is 0x144dff020.
+Info: Array length 3 is 333 and pointer is 0x1343d9020.
+Info: Array length 4 is 333 and pointer is 0x1343dc020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x174d15020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.298343, quantity=210
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 630 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 78, 74, 93.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x174964020.
+Info: Array length 1 is 1359 and pointer is 0x174989020.
+Info: Array length 2 is 333 and pointer is 0x17498c020.
+Info: Array length 3 is 333 and pointer is 0x1749c7020.
+Info: Array length 4 is 333 and pointer is 0x1749ca020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x174b04020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.303867, quantity=212
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 636 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 78, 74, 93.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x134445020.
+Info: Array length 1 is 1359 and pointer is 0x15cd82020.
+Info: Array length 2 is 333 and pointer is 0x15cd85020.
+Info: Array length 3 is 333 and pointer is 0x15cd88020.
+Info: Array length 4 is 333 and pointer is 0x15adb2020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x134430020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.309392, quantity=214
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 642 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 78, 74, 93.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x174e00020.
+Info: Array length 1 is 1359 and pointer is 0x174e01020.
+Info: Array length 2 is 333 and pointer is 0x15cc9e020.
+Info: Array length 3 is 333 and pointer is 0x15cca1020.
+Info: Array length 4 is 333 and pointer is 0x15cca5020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x15ccb3020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.320442, quantity=217
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 651 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 78, 74, 93.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x15adba020.
+Info: Array length 1 is 1359 and pointer is 0x15adbb020.
+Info: Array length 2 is 333 and pointer is 0x15adbf020.
+Info: Array length 3 is 333 and pointer is 0x15ae61020.
+Info: Array length 4 is 333 and pointer is 0x15ae64020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x174e60020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.320442, quantity=217
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 651 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 78, 74, 93.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x174c81020.
+Info: Array length 1 is 1359 and pointer is 0x174c82020.
+Info: Array length 2 is 333 and pointer is 0x15ccb7020.
+Info: Array length 3 is 333 and pointer is 0x15ccba020.
+Info: Array length 4 is 333 and pointer is 0x15ccbd020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x15adf7020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.342541, quantity=225
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 675 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 78, 74, 93.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x174b3c020.
+Info: Array length 1 is 1359 and pointer is 0x174b3d020.
+Info: Array length 2 is 333 and pointer is 0x174b41020.
+Info: Array length 3 is 333 and pointer is 0x174b44020.
+Info: Array length 4 is 333 and pointer is 0x174b47020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x174b5a020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.359116, quantity=229
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 687 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 79, 75, 94.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x174b8f020.
+Info: Array length 1 is 1359 and pointer is 0x174b90020.
+Info: Array length 2 is 333 and pointer is 0x174b94020.
+Info: Array length 3 is 333 and pointer is 0x174b97020.
+Info: Array length 4 is 333 and pointer is 0x174b9a020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x174ba6020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.370166, quantity=233
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 699 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 80, 76, 95.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x174bc2020.
+Info: Array length 1 is 1359 and pointer is 0x174bc3020.
+Info: Array length 2 is 333 and pointer is 0x174bc7020.
+Info: Array length 3 is 333 and pointer is 0x174bca020.
+Info: Array length 4 is 333 and pointer is 0x174bcd020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x174bd9020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.408840, quantity=247
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 741 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 88, 84, 104.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x174bf5020.
+Info: Array length 1 is 1359 and pointer is 0x174bf6020.
+Info: Array length 2 is 333 and pointer is 0x174bfa020.
+Info: Array length 3 is 333 and pointer is 0x174bfd020.
+Info: Array length 4 is 333 and pointer is 0x174c00020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x15c911020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.430939, quantity=255
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 765 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 94, 90, 110.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x174c0d020.
+Info: Array length 1 is 1359 and pointer is 0x174c39020.
+Info: Array length 2 is 333 and pointer is 0x174c5d020.
+Info: Array length 3 is 333 and pointer is 0x174ca8020.
+Info: Array length 4 is 333 and pointer is 0x174cc1020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x174c74020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.464088, quantity=267
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 801 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 97, 93, 116.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x174d59020.
+Info: Array length 1 is 1359 and pointer is 0x174c87020.
+Info: Array length 2 is 333 and pointer is 0x174d72020.
+Info: Array length 3 is 333 and pointer is 0x174d82020.
+Info: Array length 4 is 333 and pointer is 0x174daa020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x174d3f020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.497238, quantity=279
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 837 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 102, 98, 123.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x174e2c020.
+Info: Array length 1 is 1359 and pointer is 0x174d61020.
+Info: Array length 2 is 333 and pointer is 0x174e3c020.
+Info: Array length 3 is 333 and pointer is 0x174e7c020.
+Info: Array length 4 is 333 and pointer is 0x174e9f020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x174dac020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.513812, quantity=285
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 855 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 102, 98, 123.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x174f89020.
+Info: Array length 1 is 1359 and pointer is 0x174db3020.
+Info: Array length 2 is 333 and pointer is 0x174f9d020.
+Info: Array length 3 is 333 and pointer is 0x17483e020.
+Info: Array length 4 is 333 and pointer is 0x174879020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x174dd6020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.513812, quantity=285
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 855 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 102, 98, 123.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x1748da020.
+Info: Array length 1 is 1359 and pointer is 0x174ddc020.
+Info: Array length 2 is 333 and pointer is 0x174902020.
+Info: Array length 3 is 333 and pointer is 0x174917020.
+Info: Array length 4 is 333 and pointer is 0x174939020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x174e53020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.524862, quantity=289
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 867 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 103, 99, 124.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x1749bb020.
+Info: Array length 1 is 1359 and pointer is 0x174e81020.
+Info: Array length 2 is 333 and pointer is 0x1749d0020.
+Info: Array length 3 is 333 and pointer is 0x1749f7020.
+Info: Array length 4 is 333 and pointer is 0x174a69020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x174f32020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.530387, quantity=291
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 873 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 105, 101, 126.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x174ad2020.
+Info: Array length 1 is 1359 and pointer is 0x174f43020.
+Info: Array length 2 is 333 and pointer is 0x174b01020.
+Info: Array length 3 is 333 and pointer is 0x1747d6020.
+Info: Array length 4 is 333 and pointer is 0x1747f0020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x174f75020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.530387, quantity=291
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 873 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 105, 101, 126.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x15d4c1020.
+Info: Array length 1 is 1359 and pointer is 0x174f8b020.
+Info: Array length 2 is 333 and pointer is 0x15d4ca020.
+Info: Array length 3 is 333 and pointer is 0x15d4f7020.
+Info: Array length 4 is 333 and pointer is 0x15ccf0020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x174834020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.535912, quantity=293
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 879 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 106, 102, 127.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x15ae2c020.
+Info: Array length 1 is 1359 and pointer is 0x174860020.
+Info: Array length 2 is 333 and pointer is 0x15ae3b020.
+Info: Array length 3 is 333 and pointer is 0x15ae4d020.
+Info: Array length 4 is 333 and pointer is 0x15ae70020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x17489a020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.546961, quantity=295
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 885 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 106, 102, 127.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x134371020.
+Info: Array length 1 is 1359 and pointer is 0x1748a3020.
+Info: Array length 2 is 333 and pointer is 0x13438f020.
+Info: Array length 3 is 333 and pointer is 0x1343bc020.
+Info: Array length 4 is 333 and pointer is 0x1343d1020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x1748f7020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.552486, quantity=297
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 891 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 107, 103, 128.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x13380d020.
+Info: Array length 1 is 1359 and pointer is 0x174919020.
+Info: Array length 2 is 333 and pointer is 0x133836020.
+Info: Array length 3 is 333 and pointer is 0x13383e020.
+Info: Array length 4 is 333 and pointer is 0x13384e020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x17495e020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.563536, quantity=301
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 903 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 109, 105, 130.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x132cf4020.
+Info: Array length 1 is 1359 and pointer is 0x174993020.
+Info: Array length 2 is 333 and pointer is 0x132d02020.
+Info: Array length 3 is 333 and pointer is 0x132d90020.
+Info: Array length 4 is 333 and pointer is 0x132d9d020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x1749d2020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.563536, quantity=301
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 903 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 109, 105, 130.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x174a10020.
+Info: Array length 1 is 1359 and pointer is 0x174a13020.
+Info: Array length 2 is 333 and pointer is 0x174a1d020.
+Info: Array length 3 is 333 and pointer is 0x174a2c020.
+Info: Array length 4 is 333 and pointer is 0x174a4f020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x174a9e020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.569061, quantity=303
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 909 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 110, 106, 131.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x174b19020.
+Info: Array length 1 is 1359 and pointer is 0x174b23020.
+Info: Array length 2 is 333 and pointer is 0x1747c4020.
+Info: Array length 3 is 333 and pointer is 0x1747cd020.
+Info: Array length 4 is 333 and pointer is 0x1747ed020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x15d475020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.585635, quantity=309
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 927 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 112, 108, 134.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x15ccdd020.
+Info: Array length 1 is 1359 and pointer is 0x15cceb020.
+Info: Array length 2 is 333 and pointer is 0x15ccf3020.
+Info: Array length 3 is 333 and pointer is 0x15cd00020.
+Info: Array length 4 is 333 and pointer is 0x15cd26020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x15cd60020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.591160, quantity=311
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 933 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 112, 108, 134.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x15adeb020.
+Info: Array length 1 is 1359 and pointer is 0x15adee020.
+Info: Array length 2 is 333 and pointer is 0x15ae0b020.
+Info: Array length 3 is 333 and pointer is 0x15ae19020.
+Info: Array length 4 is 333 and pointer is 0x15ae23020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x14846c020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.596685, quantity=313
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 939 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 113, 109, 135.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x13445f020.
+Info: Array length 1 is 1359 and pointer is 0x134462020.
+Info: Array length 2 is 333 and pointer is 0x13435d020.
+Info: Array length 3 is 333 and pointer is 0x134377020.
+Info: Array length 4 is 333 and pointer is 0x134382020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x1343f8020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.613260, quantity=319
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 957 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 116, 111, 138.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x1333bc020.
+Info: Array length 1 is 1359 and pointer is 0x1333db020.
+Info: Array length 2 is 333 and pointer is 0x1333e9020.
+Info: Array length 3 is 333 and pointer is 0x1333f1020.
+Info: Array length 4 is 333 and pointer is 0x132d08020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x174c36020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.618785, quantity=321
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 963 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 117, 112, 139.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x174e46020.
+Info: Array length 1 is 1359 and pointer is 0x174e6b020.
+Info: Array length 2 is 333 and pointer is 0x174e74020.
+Info: Array length 3 is 333 and pointer is 0x174e86020.
+Info: Array length 4 is 333 and pointer is 0x174e8a020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x174f36020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.618785, quantity=321
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 963 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 117, 112, 139.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x1749b7020.
+Info: Array length 1 is 1359 and pointer is 0x1749c1020.
+Info: Array length 2 is 333 and pointer is 0x1749cd020.
+Info: Array length 3 is 333 and pointer is 0x1749ea020.
+Info: Array length 4 is 333 and pointer is 0x174a09020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x174a5e020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.624309, quantity=323
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 969 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 117, 112, 140.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x134387020.
+Info: Array length 1 is 1359 and pointer is 0x1343a6020.
+Info: Array length 2 is 333 and pointer is 0x1343ea020.
+Info: Array length 3 is 333 and pointer is 0x1343f0020.
+Info: Array length 4 is 333 and pointer is 0x133e34020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x133387020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.618785, quantity=321
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 963 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 117, 112, 139.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x174f7b020.
+Info: Array length 1 is 1359 and pointer is 0x174f91020.
+Info: Array length 2 is 333 and pointer is 0x174f94020.
+Info: Array length 3 is 333 and pointer is 0x174857020.
+Info: Array length 4 is 333 and pointer is 0x17485b020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x17491d020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.618785, quantity=321
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 963 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 117, 112, 139.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x174a39020.
+Info: Array length 1 is 1359 and pointer is 0x174a59020.
+Info: Array length 2 is 333 and pointer is 0x174a5c020.
+Info: Array length 3 is 333 and pointer is 0x174a7d020.
+Info: Array length 4 is 333 and pointer is 0x174a85020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x174b0a020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.613260, quantity=319
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 957 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 116, 111, 138.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x15cd8b020.
+Info: Array length 1 is 1359 and pointer is 0x15cd8c020.
+Info: Array length 2 is 333 and pointer is 0x15c655020.
+Info: Array length 3 is 333 and pointer is 0x15ad99020.
+Info: Array length 4 is 333 and pointer is 0x15ad9c020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x15ae25020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.607735, quantity=317
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 951 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 115, 110, 137.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x132d94020.
+Info: Array length 1 is 1359 and pointer is 0x132dc6020.
+Info: Array length 2 is 333 and pointer is 0x132dc9020.
+Info: Array length 3 is 333 and pointer is 0x132ac1020.
+Info: Array length 4 is 333 and pointer is 0x132ad1020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x174d7c020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.602210, quantity=315
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 945 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 114, 109, 136.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x174bea020.
+Info: Array length 1 is 1359 and pointer is 0x174beb020.
+Info: Array length 2 is 333 and pointer is 0x15d467020.
+Info: Array length 3 is 333 and pointer is 0x15d46a020.
+Info: Array length 4 is 333 and pointer is 0x15cd0e020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x144d9a020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.596685, quantity=313
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 939 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 113, 109, 135.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x174d91020.
+Info: Array length 1 is 1359 and pointer is 0x174d92020.
+Info: Array length 2 is 333 and pointer is 0x174de6020.
+Info: Array length 3 is 333 and pointer is 0x174de9020.
+Info: Array length 4 is 333 and pointer is 0x174e4c020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x174a44020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.580110, quantity=307
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 921 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 112, 108, 133.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x15c918020.
+Info: Array length 1 is 1359 and pointer is 0x15c919020.
+Info: Array length 2 is 333 and pointer is 0x15adb0020.
+Info: Array length 3 is 333 and pointer is 0x15adb3020.
+Info: Array length 4 is 333 and pointer is 0x15adb6020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x174cbc020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.585635, quantity=309
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 927 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 112, 108, 134.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x15cd15020.
+Info: Array length 1 is 1359 and pointer is 0x15cd16020.
+Info: Array length 2 is 333 and pointer is 0x15cd1a020.
+Info: Array length 3 is 333 and pointer is 0x17497b020.
+Info: Array length 4 is 333 and pointer is 0x17497e020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x134441020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.596685, quantity=313
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 939 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 113, 109, 135.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x144d93020.
+Info: Array length 1 is 1359 and pointer is 0x144d94020.
+Info: Array length 2 is 333 and pointer is 0x144d98020.
+Info: Array length 3 is 333 and pointer is 0x174c7d020.
+Info: Array length 4 is 333 and pointer is 0x174c80020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x144d8a020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.602210, quantity=315
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 945 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 114, 109, 136.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x144dcc020.
+Info: Array length 1 is 1359 and pointer is 0x144dcd020.
+Info: Array length 2 is 333 and pointer is 0x144dd1020.
+Info: Array length 3 is 333 and pointer is 0x144dd4020.
+Info: Array length 4 is 333 and pointer is 0x144dd7020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x144de4020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.602210, quantity=315
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 945 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 114, 109, 136.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x174e62020.
+Info: Array length 1 is 1359 and pointer is 0x174e63020.
+Info: Array length 2 is 333 and pointer is 0x174bf3020.
+Info: Array length 3 is 333 and pointer is 0x174bf6020.
+Info: Array length 4 is 333 and pointer is 0x174bf9020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x174c05020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.607735, quantity=317
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 951 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 115, 110, 137.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x174b30020.
+Info: Array length 1 is 1359 and pointer is 0x174b31020.
+Info: Array length 2 is 333 and pointer is 0x174b35020.
+Info: Array length 3 is 333 and pointer is 0x174b38020.
+Info: Array length 4 is 333 and pointer is 0x174b3b020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x174b47020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.613260, quantity=319
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 957 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 116, 111, 138.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x174c2e020.
+Info: Array length 1 is 1359 and pointer is 0x174c39020.
+Info: Array length 2 is 333 and pointer is 0x174c97020.
+Info: Array length 3 is 333 and pointer is 0x174cb6020.
+Info: Array length 4 is 333 and pointer is 0x174cf0020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x174c74020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.618785, quantity=321
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 963 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 117, 112, 139.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x174d78020.
+Info: Array length 1 is 1359 and pointer is 0x174cfd020.
+Info: Array length 2 is 333 and pointer is 0x174d9f020.
+Info: Array length 3 is 333 and pointer is 0x174dbd020.
+Info: Array length 4 is 333 and pointer is 0x174dcf020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x174d61020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.618785, quantity=321
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 963 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 117, 112, 139.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x174e98020.
+Info: Array length 1 is 1359 and pointer is 0x174d6d020.
+Info: Array length 2 is 333 and pointer is 0x174eaa020.
+Info: Array length 3 is 333 and pointer is 0x174eeb020.
+Info: Array length 4 is 333 and pointer is 0x174f46020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x174dc9020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.624309, quantity=323
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 969 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 117, 112, 140.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x174a03020.
+Info: Array length 1 is 1359 and pointer is 0x174dd9020.
+Info: Array length 2 is 333 and pointer is 0x174a6b020.
+Info: Array length 3 is 333 and pointer is 0x174a8f020.
+Info: Array length 4 is 333 and pointer is 0x174ab1020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x174e41020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.618785, quantity=321
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 963 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 117, 112, 139.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x15d4b2020.
+Info: Array length 1 is 1359 and pointer is 0x174e5a020.
+Info: Array length 2 is 333 and pointer is 0x15d4c3020.
+Info: Array length 3 is 333 and pointer is 0x15d4e1020.
+Info: Array length 4 is 333 and pointer is 0x15cc17020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x174f02020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.618785, quantity=321
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 963 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 117, 112, 139.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x15adde020.
+Info: Array length 1 is 1359 and pointer is 0x174f4a020.
+Info: Array length 2 is 333 and pointer is 0x15ae1e020.
+Info: Array length 3 is 333 and pointer is 0x15ae36020.
+Info: Array length 4 is 333 and pointer is 0x15ae46020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x174f86020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.613260, quantity=319
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 957 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 116, 111, 138.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x13438f020.
+Info: Array length 1 is 1359 and pointer is 0x174f98020.
+Info: Array length 2 is 333 and pointer is 0x1343bc020.
+Info: Array length 3 is 333 and pointer is 0x1343d1020.
+Info: Array length 4 is 333 and pointer is 0x1343f5020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x174860020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.607735, quantity=317
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 951 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 115, 110, 137.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x133836020.
+Info: Array length 1 is 1359 and pointer is 0x174887020.
+Info: Array length 2 is 333 and pointer is 0x13383e020.
+Info: Array length 3 is 333 and pointer is 0x13384e020.
+Info: Array length 4 is 333 and pointer is 0x13385b020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x1748ab020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.591160, quantity=311
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 933 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 112, 108, 134.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x132d05020.
+Info: Array length 1 is 1359 and pointer is 0x1748f3020.
+Info: Array length 2 is 333 and pointer is 0x132d97020.
+Info: Array length 3 is 333 and pointer is 0x132da8020.
+Info: Array length 4 is 333 and pointer is 0x132e1b020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x174936020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.585635, quantity=309
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 927 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 112, 108, 134.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x1749d9020.
+Info: Array length 1 is 1359 and pointer is 0x1749ee020.
+Info: Array length 2 is 333 and pointer is 0x174a0f020.
+Info: Array length 3 is 333 and pointer is 0x174a14020.
+Info: Array length 4 is 333 and pointer is 0x174a1d020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x174a9b020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.580110, quantity=307
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 921 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 112, 108, 133.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x15d45c020.
+Info: Array length 1 is 1359 and pointer is 0x15d46e020.
+Info: Array length 2 is 333 and pointer is 0x15d473020.
+Info: Array length 3 is 333 and pointer is 0x15d47b020.
+Info: Array length 4 is 333 and pointer is 0x15d485020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x15cc19020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.580110, quantity=307
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 921 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 112, 108, 133.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x15ada0020.
+Info: Array length 1 is 1359 and pointer is 0x15adc5020.
+Info: Array length 2 is 333 and pointer is 0x15add6020.
+Info: Array length 3 is 333 and pointer is 0x15ade2020.
+Info: Array length 4 is 333 and pointer is 0x15adec020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x15ae43020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.574586, quantity=305
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 915 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 111, 107, 132.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x144d30020.
+Info: Array length 1 is 1359 and pointer is 0x144d40020.
+Info: Array length 2 is 333 and pointer is 0x144e0f020.
+Info: Array length 3 is 333 and pointer is 0x134462020.
+Info: Array length 4 is 333 and pointer is 0x134358020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x1343ac020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.563536, quantity=301
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 903 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 109, 105, 130.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x133844020.
+Info: Array length 1 is 1359 and pointer is 0x13385d020.
+Info: Array length 2 is 333 and pointer is 0x1337fb020.
+Info: Array length 3 is 333 and pointer is 0x133384020.
+Info: Array length 4 is 333 and pointer is 0x1333db020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x132dac020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.558011, quantity=299
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 897 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 108, 104, 129.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x174f3d020.
+Info: Array length 1 is 1359 and pointer is 0x174f50020.
+Info: Array length 2 is 333 and pointer is 0x174f54020.
+Info: Array length 3 is 333 and pointer is 0x174f5f020.
+Info: Array length 4 is 333 and pointer is 0x174873020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x1748e3020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.552486, quantity=297
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 891 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 107, 103, 128.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x174a5e020.
+Info: Array length 1 is 1359 and pointer is 0x174a5f020.
+Info: Array length 2 is 333 and pointer is 0x174a67020.
+Info: Array length 3 is 333 and pointer is 0x174a72020.
+Info: Array length 4 is 333 and pointer is 0x174a93020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x174b14020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.552486, quantity=297
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 891 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 107, 103, 128.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x15cd41020.
+Info: Array length 1 is 1359 and pointer is 0x15cd49020.
+Info: Array length 2 is 333 and pointer is 0x15cd4d020.
+Info: Array length 3 is 333 and pointer is 0x15cd5f020.
+Info: Array length 4 is 333 and pointer is 0x15cd78020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x15ae21020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.546961, quantity=295
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 885 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 106, 102, 127.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x133e35020.
+Info: Array length 1 is 1359 and pointer is 0x133ea9020.
+Info: Array length 2 is 333 and pointer is 0x133eb1020.
+Info: Array length 3 is 333 and pointer is 0x1337ff020.
+Info: Array length 4 is 333 and pointer is 0x13386f020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x132db1020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.541436, quantity=294
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 882 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 106, 102, 127.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x17485d020.
+Info: Array length 1 is 1359 and pointer is 0x1748fd020.
+Info: Array length 2 is 333 and pointer is 0x174908020.
+Info: Array length 3 is 333 and pointer is 0x17490b020.
+Info: Array length 4 is 333 and pointer is 0x17491e020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x174943020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.535912, quantity=293
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 879 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 106, 102, 127.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x15d447020.
+Info: Array length 1 is 1359 and pointer is 0x15d448020.
+Info: Array length 2 is 333 and pointer is 0x15d4a3020.
+Info: Array length 3 is 333 and pointer is 0x15d4f1020.
+Info: Array length 4 is 333 and pointer is 0x15cc7e020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x15cce0020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.530387, quantity=291
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 873 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 105, 101, 126.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x15ae11020.
+Info: Array length 1 is 1359 and pointer is 0x15ae25020.
+Info: Array length 2 is 333 and pointer is 0x148472020.
+Info: Array length 3 is 333 and pointer is 0x148475020.
+Info: Array length 4 is 333 and pointer is 0x14847f020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x1343db020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.530387, quantity=291
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 873 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 105, 101, 126.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x174daf020.
+Info: Array length 1 is 1359 and pointer is 0x174e07020.
+Info: Array length 2 is 333 and pointer is 0x174e0a020.
+Info: Array length 3 is 333 and pointer is 0x1748ee020.
+Info: Array length 4 is 333 and pointer is 0x1748f1020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x17498a020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.524862, quantity=289
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 867 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 103, 99, 124.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x134400020.
+Info: Array length 1 is 1359 and pointer is 0x134401020.
+Info: Array length 2 is 333 and pointer is 0x133867020.
+Info: Array length 3 is 333 and pointer is 0x13386a020.
+Info: Array length 4 is 333 and pointer is 0x132ab8020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x174d4d020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.519337, quantity=287
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 861 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 102, 98, 123.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x144db3020.
+Info: Array length 1 is 1359 and pointer is 0x144db4020.
+Info: Array length 2 is 333 and pointer is 0x144db8020.
+Info: Array length 3 is 333 and pointer is 0x144e07020.
+Info: Array length 4 is 333 and pointer is 0x144e0a020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x15cd87020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.513812, quantity=285
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 855 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 102, 98, 123.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x15ccb0020.
+Info: Array length 1 is 1359 and pointer is 0x15ccb1020.
+Info: Array length 2 is 333 and pointer is 0x15ccb5020.
+Info: Array length 3 is 333 and pointer is 0x15ccbf020.
+Info: Array length 4 is 333 and pointer is 0x15ccc2020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x15cd14020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.513812, quantity=285
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 855 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 102, 98, 123.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x174c49020.
+Info: Array length 1 is 1359 and pointer is 0x174c4a020.
+Info: Array length 2 is 333 and pointer is 0x174c4e020.
+Info: Array length 3 is 333 and pointer is 0x174df1020.
+Info: Array length 4 is 333 and pointer is 0x174df4020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x174e1a020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.513812, quantity=285
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 855 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 102, 98, 123.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x174a46020.
+Info: Array length 1 is 1359 and pointer is 0x174a47020.
+Info: Array length 2 is 333 and pointer is 0x174a4b020.
+Info: Array length 3 is 333 and pointer is 0x174a4e020.
+Info: Array length 4 is 333 and pointer is 0x144d47020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x144dd9020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.519337, quantity=287
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 861 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 102, 98, 123.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x144d8c020.
+Info: Array length 1 is 1359 and pointer is 0x144d8d020.
+Info: Array length 2 is 333 and pointer is 0x144d91020.
+Info: Array length 3 is 333 and pointer is 0x144d94020.
+Info: Array length 4 is 333 and pointer is 0x144d97020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x174b2f020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.524862, quantity=289
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 867 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 103, 99, 124.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x174c0d020.
+Info: Array length 1 is 1359 and pointer is 0x174c39020.
+Info: Array length 2 is 333 and pointer is 0x174c71020.
+Info: Array length 3 is 333 and pointer is 0x174ca8020.
+Info: Array length 4 is 333 and pointer is 0x174cf0020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x174c87020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.530387, quantity=291
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 873 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 105, 101, 126.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x174d72020.
+Info: Array length 1 is 1359 and pointer is 0x174cfd020.
+Info: Array length 2 is 333 and pointer is 0x174d82020.
+Info: Array length 3 is 333 and pointer is 0x174daa020.
+Info: Array length 4 is 333 and pointer is 0x174dcd020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x174d67020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.530387, quantity=291
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 873 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 105, 101, 126.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x1333db020.
+Info: Array length 1 is 1359 and pointer is 0x1333e8020.
+Info: Array length 2 is 333 and pointer is 0x1333ef020.
+Info: Array length 3 is 333 and pointer is 0x132d07020.
+Info: Array length 4 is 333 and pointer is 0x132d8a020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x174c54020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.530387, quantity=291
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 873 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 105, 101, 126.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x174ca4020.
+Info: Array length 1 is 1359 and pointer is 0x174ca5020.
+Info: Array length 2 is 333 and pointer is 0x174cc3020.
+Info: Array length 3 is 333 and pointer is 0x174cf4020.
+Info: Array length 4 is 333 and pointer is 0x174cf8020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x174d74020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+INFO: meshSettings->joinVerticesThreshold=0.000100
+INFO: meshSettings->removeTJunctionsThreshold=0.100000
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.535912, quantity=293
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 879 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 106, 102, 127.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.000000, quantity=109
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 327 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 44, 42, 52.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.005525, quantity=111
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 333 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 44, 42, 52.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.038674, quantity=121
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 363 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 48, 46, 56.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.071823, quantity=133
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 399 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 50, 48, 59.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.099447, quantity=143
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 429 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 53, 51, 64.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.132597, quantity=155
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 465 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 59, 57, 72.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.165746, quantity=167
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 501 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 67, 64, 81.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.248619, quantity=192
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 576 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 75, 71, 90.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.281768, quantity=204
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 612 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 78, 74, 93.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.320442, quantity=217
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 651 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 78, 74, 93.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.381215, quantity=237
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 711 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 83, 79, 98.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.447514, quantity=261
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 783 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 97, 93, 114.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.469613, quantity=269
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 807 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 97, 93, 117.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.491713, quantity=277
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 831 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 101, 97, 122.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.508287, quantity=283
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 849 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 102, 98, 123.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.535912, quantity=293
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 879 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 106, 102, 127.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.558011, quantity=299
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 897 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 108, 104, 129.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.580110, quantity=307
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 921 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 112, 108, 133.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.585635, quantity=309
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 927 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 112, 108, 134.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.591160, quantity=311
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 933 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 112, 108, 134.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.591160, quantity=311
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 933 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 112, 108, 134.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.585635, quantity=309
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 927 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 112, 108, 134.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.580110, quantity=307
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 921 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 112, 108, 133.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.574586, quantity=305
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 915 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 111, 107, 132.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.563536, quantity=301
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 903 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 109, 105, 130.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.546961, quantity=295
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 885 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 106, 102, 127.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.530387, quantity=291
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 873 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 105, 101, 126.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.524862, quantity=289
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 867 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 103, 99, 124.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.508287, quantity=283
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 849 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 102, 98, 123.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.497238, quantity=279
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 837 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 102, 98, 123.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.491713, quantity=277
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 831 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 101, 97, 122.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.464088, quantity=267
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 801 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 97, 93, 116.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.453039, quantity=263
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 789 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 97, 93, 115.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.436464, quantity=257
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 771 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 95, 91, 111.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.425414, quantity=253
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 759 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 93, 89, 109.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.419890, quantity=251
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 753 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 91, 87, 107.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.408840, quantity=247
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 741 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 88, 84, 104.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.408840, quantity=247
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 741 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 88, 84, 104.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.397790, quantity=243
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 729 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 86, 82, 101.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.392265, quantity=241
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 723 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 86, 82, 101.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.392265, quantity=241
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 723 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 86, 82, 101.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.386740, quantity=239
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 717 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 84, 80, 99.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.386740, quantity=239
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 717 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 84, 80, 99.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.375691, quantity=235
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 705 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 81, 77, 96.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.381215, quantity=237
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 711 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 83, 79, 98.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.386740, quantity=239
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 717 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 84, 80, 99.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.392265, quantity=241
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 723 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 86, 82, 101.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.392265, quantity=241
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 723 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 86, 82, 101.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.392265, quantity=241
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 723 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 86, 82, 101.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.397790, quantity=243
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 729 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 86, 82, 101.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.403315, quantity=245
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 735 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 88, 84, 103.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.408840, quantity=247
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 741 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 88, 84, 104.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.414365, quantity=249
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 747 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 89, 85, 105.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.419890, quantity=251
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 753 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 91, 87, 107.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.425414, quantity=253
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 759 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 93, 89, 109.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.425414, quantity=253
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 759 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 93, 89, 109.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.425414, quantity=253
+TRACE: Exiting AdjustMesh
+TRACE: Entering QueryMeshSizes
+TRACE: Exiting QueryMeshSizes
+TRACE: Entering RetrieveMesh
+INFO: Exporting 1 sub-mesh(es).
+INFO: Exporting 759 triangles for sub-mesh 0.
+INFO: Triangle data for first triangle is 93, 89, 109.
+TRACE: Exiting RetrieveMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 333 and pointer is 0x174b5e020.
+Info: Array length 1 is 1359 and pointer is 0x174b5f020.
+Info: Array length 2 is 333 and pointer is 0x174b9b020.
+Info: Array length 3 is 333 and pointer is 0x1747c9020.
+Info: Array length 4 is 333 and pointer is 0x1747ce020.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x15d475020.
+Info: Sub-mesh 0 array length is 1359.
+INFO: Added 333 vertices.
+INFO: Added 453 faces for sub-mesh 0 to face set 0.
+INFO: Added 333 normals.
+INFO: Added 333 uv0s.
+INFO: Added 333 uv1s.
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.426175, quantity=187
+TRACE: Exiting AdjustMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown
+TRACE: Entering PluginStartup
+INFO: BalancerSDKProductName: Balancer SDK [64 bit] 
+(licensed to Brett Bibby, Jean Tan)
+INFO: BalancerSDKProductVersion: 2.1.2.462
+INFO: BalancerSDKExpirationDate: never
+TRACE: Exiting PluginStartup
+TRACE: Entering AddMesh
+Info: Array length 0 is 484 and pointer is 0x157a6f020.
+Info: Array length 1 is 672 and pointer is 0x15540d020.
+Info: Array length 2 is 484 and pointer is 0x157a9b020.
+Info: Array length 3 is 484 and pointer is 0x15548a020.
+Info: Array length 4 is 0 and pointer is 0x0.
+Info: Array length 5 is 0 and pointer is 0x0.
+Info: Array length 6 is 1 and pointer is 0x1554b1020.
+Info: Sub-mesh 0 array length is 672.
+INFO: Added 484 vertices.
+INFO: Added 224 faces for sub-mesh 0 to face set 0.
+INFO: Added 484 normals.
+INFO: Added 484 uv0s.
+INFO: Added 0 uv1s.
+TRACE: Exiting AddMesh
+TRACE: Entering AdjustMesh
+INFO: quality=0.000000, quantity=130
+TRACE: Exiting AdjustMesh
+TRACE: Entering PluginShutdown
+TRACE: Exiting PluginShutdown

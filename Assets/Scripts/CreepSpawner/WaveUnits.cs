@@ -10,6 +10,7 @@
 using System;
 using UnitScripts;
 using UnityEngine;
+using FlightPathManager;
 
 
 namespace CreepSpawnerPackage
@@ -25,6 +26,7 @@ namespace CreepSpawnerPackage
 		public string exitLocation = "CreepExit";
 		public int creepCount;
 		public GameObject spawnLocationObj;
+		public float altitudeAdjust = 0f;
 		public WaveUnits ()
 		{
 		}
@@ -40,8 +42,18 @@ namespace CreepSpawnerPackage
 			if(_countToNextUnit<0f) {
 		
 				GameObject u = (GameObject) GameObject.Instantiate(unitPrefab.gameObject,spawnLocationObj.transform.position,spawnLocationObj.transform.rotation);
-				u.GetComponent<BasicUnit>().exit = GameObject.Find(exitLocation).transform;
+				if(u.GetComponent<BasicUnit>()) {
+					u.GetComponent<BasicUnit>().exit = GameObject.Find(exitLocation).transform;
+				}
+				if(u.GetComponent<FlightPathFollower>()!=null) {
+					FlightPathFollower fpf = u.GetComponent<FlightPathFollower>();
+					fpf.followThisPath = spawnLocationObj.GetComponent<FlightPath>();
+					fpf.altitudeAdjust = altitudeAdjust;
+				}
 				creepCount--;
+				if(creepCount==0) {
+					spawnLocationObj = null;
+				}
 			}
 		}
 		
