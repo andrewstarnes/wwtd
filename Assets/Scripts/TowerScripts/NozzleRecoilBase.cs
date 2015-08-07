@@ -20,8 +20,11 @@ namespace TowerScripts
 		}
 
 		public void recoil() {
-			iTween.MoveBy(this.gameObject, iTween.Hash("z", -0.08, "easeType",iTween.EaseType.spring, "loopType", "pingPong", "delay", .0,"time",0.05));
-		}
+			iTween.MoveBy(this.gameObject, iTween.Hash("z", -0.08, "easeType",iTween.EaseType.spring, "loopType", "none", "delay", .0,"time",0.1));
+			iTween.MoveBy(this.gameObject, iTween.Hash("z", 0.08, "easeType",iTween.EaseType.spring, "loopType", "none", "delay", .2,"time",0.1));
+		
+
+}
 	}
 }
 

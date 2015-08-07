@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 using TowerScripts;
+using Google2u;
 
 public class MF_BasicWeapon : MonoBehaviour {
 
@@ -39,6 +40,10 @@ public class MF_BasicWeapon : MonoBehaviour {
 	public GunExit[] exits;
 
 
+	public float damage = 0f;
+	public float splashRange = 0f;
+	public float splashDamage = 0f;
+
 	public NozzleRecoilBase recoiler;
 	[HideInInspector] public Vector3 platformVelocity;
 	[HideInInspector] public int curAmmoCount;
@@ -62,8 +67,24 @@ public class MF_BasicWeapon : MonoBehaviour {
 		curInaccuracy = inaccuracy;
 	}
 	
+
+	public void initTower(TowerListRow aData) {
+		this.damage = aData._BulletDamage;
+		this.splashRange = aData._BulletSplashRange;
+		this.splashDamage = aData._BulletSplash; 
+		this.burstAmount = aData._BurstAmount;
+		this.burstResetTime = aData._BurstResetTime;
+		this.cycleTime = aData._CycleTime;
+		this.maxRange = aData._MaxRange;
+		this.reloadTime = aData._ReloadTime;
+		this.shotSpeed = aData._ShotSpeed;
+		this.shotsPerRound = aData._ShotsPerRound;
+	}
 	public void Start () {
 		if(shot==null) {
+			if(shotName=="") {
+				shotName = "BulletPool";
+			}
 			shot = GameObject.Find(shotName).GetComponent<EZObjectPool>();
 		}
 		if (CheckErrors() == true) { return; }
@@ -123,6 +144,10 @@ public class MF_BasicWeapon : MonoBehaviour {
 			MF_BasicProjectile shotScript = myShot.GetComponent<MF_BasicProjectile>();
 			shotScript.startTime = Time.time;
 			shotScript.duration = shotDuration;
+			shotScript.damage = this.damage;
+			shotScript.splashRange = this.splashRange;
+			shotScript.splashDamage = this.splashDamage;
+
 		} 
 		// flare
 		if (exits[curExit].flare) {

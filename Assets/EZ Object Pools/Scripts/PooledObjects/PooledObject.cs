@@ -10,6 +10,7 @@ public class PooledObject : MonoBehaviour
     [HideInInspector]
     public EZObjectPool ParentPool;
 
+
     void OnDisable()
     {
         transform.position = Vector3.zero;

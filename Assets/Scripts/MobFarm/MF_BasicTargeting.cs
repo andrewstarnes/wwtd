@@ -103,6 +103,7 @@ public class MF_BasicTargeting : MF_AbstractTargeting {
 				}
 			}
 		}
+		
 		return _bestTarget;
 	}
 	

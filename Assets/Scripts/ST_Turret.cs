@@ -299,8 +299,12 @@ public class ST_Turret : MF_AbstractPlatform {
 			_angle = MFmath.AngleSigned(rotator.transform.forward, _elevatorPlaneTarget - elevator.transform.position, -elevator.transform.right);
 			if (_angle < limitDown || _angle > limitUp) {
 				return false;
-			}   
-			return true;
+			}
+			if(_xzDist<this.GetComponent<MF_BasicScanner>().detectorRange) {
+				
+				return true;
+			}
+			return false; 
 		} else {
 			return false;
 		}

@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using UnitScripts;
 
 public class MF_BasicScanner : MonoBehaviour {
 
@@ -18,7 +19,7 @@ public class MF_BasicScanner : MonoBehaviour {
 	public float detectorInterval;
 	
 	[HideInInspector] float lastDetect;
-	
+	public int currentTargetCount = 0;
 	MF_TargetList targetListScript;
 	LayerMask mask;
 	bool error;
@@ -45,6 +46,7 @@ public class MF_BasicScanner : MonoBehaviour {
 			lastDetect = Time.time;
 			DoScanner();
 			targetListScript.lastUpdate = Time.time; // for target choosing timing
+			currentTargetCount = targetListScript.targetList.Count;
 		}	
 	}
 	
@@ -69,7 +71,7 @@ public class MF_BasicScanner : MonoBehaviour {
 					continue;
 				}
 				// **** avoids a bug where unity leaves an invisible empty object after editing a prefab when playing a scene without clicking off the edited prefab.
-				if ( _targets[t].transform.root.GetComponent<MF_AbstractStatus>() == null ) {
+				if ( _targets[t].transform.root.GetComponent<BasicUnit>() == null ) {
 					_targets[t] = null;
 					continue;
 				}
@@ -89,7 +91,7 @@ public class MF_BasicScanner : MonoBehaviour {
 			if ( _targets[d] == gameObject ) { continue; } // skip self
 			if ( _targets[d] == null ) { continue; } // skip null 
 			
-			MF_AbstractStatus _statusScript = _targets[d].transform.root.GetComponent<MF_AbstractStatus>();
+			BasicUnit _statusScript = _targets[d].transform.root.GetComponent<BasicUnit>();
 	
 			// add to targetList
 			int key = _targets[d].GetInstanceID();
@@ -102,7 +104,7 @@ public class MF_BasicScanner : MonoBehaviour {
 			// update record
 			targetListScript.targetList[key].lastDetected = Time.time;
 			targetListScript.targetList[key].sqrMagnitude = (transform.position - _targets[d].transform.position).sqrMagnitude;
-
+			
 			// other data gathered by detector
 
 		}

@@ -2,6 +2,8 @@
 using System.Collections;
 using TowerScripts;
 using DigitalRuby.ThunderAndLightning;
+using UnitScripts;
+using Google2u;
 
 public class MF_ElectroWeapon : MonoBehaviour {
 
@@ -28,7 +30,13 @@ public class MF_ElectroWeapon : MonoBehaviour {
 	[Tooltip("If multiple exits, they will be used sequentially. (Usefull for a missile rack, or multi-barrel weapons)")]
 	public GunExit[] exits;
 	
-
+	public float damage = 0f;
+	public float splashDamage = 0f;
+	public float splashRange = 0f;
+	public float slowPercent = 0f;
+	public float slowTime = 0f;
+	public float damageInfantryMultiplier = 0f;
+	public float damageMechanicMultiplier = 0f;
 	public float maxRange = 100f;
 	public NozzleRecoilBase recoiler;
 	[HideInInspector] public Vector3 platformVelocity;
@@ -52,6 +60,12 @@ public class MF_ElectroWeapon : MonoBehaviour {
 	void OnValidate() {
 	}
 	
+	public void initWeapon(TowerListRow aRow) {
+		this.damage = aRow._BulletDamage;
+		this.splashDamage = aRow._BulletSplash;
+		this.splashRange = aRow._BulletSplashRange;
+
+	}
 	public void Start () {
 		if (CheckErrors() == true) { return; }
 		
@@ -74,6 +88,13 @@ public class MF_ElectroWeapon : MonoBehaviour {
 		}
 	}
 	
+	public IEnumerator delayToDamage(GameObject aTarget) {
+		yield return new WaitForSeconds(0.2f);
+		if(aTarget!=null) {
+			BasicUnit u = aTarget.GetComponent<BasicUnit>();
+			u.hitUnit(this.damage,this.damageInfantryMultiplier,this.damageMechanicMultiplier);
+		}	
+	}
 	// use this only if already checked if weapon is ready to fire
 	public virtual void DoFire (GameObject aTarget) {
 		if (error == true) { return; }
@@ -93,6 +114,8 @@ public class MF_ElectroWeapon : MonoBehaviour {
 			shot.Destination = aTarget;
 			shot.Source = exits[curExit].transform.gameObject;
 			shot.CallLightning();
+
+			StartCoroutine(delayToDamage(aTarget));
 			/*if(myShot==null) {
 				myShot = (GameObject) Instantiate(shot.Template, exits[curExit].transform.position, exits[curExit].transform.rotation);
 			}*/

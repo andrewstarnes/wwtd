@@ -54,6 +54,7 @@ namespace Lean
 		// This tells you the last screen position of the finger
 		public Vector2 LastScreenPosition;
 		
+		public Camera uiCamera;
 		// This tells you the total of all the ScreenPositionDelta.magnitude values
 		public float TotalDeltaMagnitude;
 		
@@ -106,21 +107,14 @@ namespace Lean
 		{
 			get
 			{
-				var currentEventSystem = EventSystem.current;
-				
-				if (currentEventSystem != null)
-				{
-					var eventDataCurrentPosition = new PointerEventData(currentEventSystem);
-					
-					eventDataCurrentPosition.position = new Vector2(ScreenPosition.x, ScreenPosition.y);
-					
-					tempRaycastResults.Clear();
-					
-					currentEventSystem.RaycastAll(eventDataCurrentPosition, tempRaycastResults);
-					
-					return tempRaycastResults.Count > 0;
+				if(uiCamera==null) {
+					GameObject uiRoot = GameObject.Find("UI Root");
+					uiCamera = uiRoot.transform.FindChild("Camera").GetComponent<Camera>();
 				}
-				
+				if( uiCamera != null )
+				{
+					return UICamera.hoveredObject.name!="UI Root";
+				}
 				return false;
 			}
 		}

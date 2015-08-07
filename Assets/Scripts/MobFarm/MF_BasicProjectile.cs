@@ -1,22 +1,33 @@
 ﻿using UnityEngine;
 using System.Collections;
+using UnitScripts;
+using PigeonCoopToolkit.Effects.Trails;
 
 public class MF_BasicProjectile : MonoBehaviour {
 
 	public float damage;
+	public float splashDamage;
+	public float splashRange;
+	public string awaker = "";
 	public static EZObjectPool blastObjectPool;
 	public string blastObjectPoolName;
 	[HideInInspector] public float duration;
 	
 	public float startTime;
 	
-	void Start() {
+	public void Start() {
 		if(blastObjectPool==null) {
 			blastObjectPool = GameObject.Find(blastObjectPoolName).gameObject.GetComponent<EZObjectPool>();
 		}
 	}
+
+	public void Awake() {
+
+
 	
-	void FixedUpdate () {
+	}
+
+	public virtual void FixedUpdate () {
 		if (Time.time >= startTime + duration) {
 			this.gameObject.SetActive(false);
 		}
@@ -28,11 +39,18 @@ public class MF_BasicProjectile : MonoBehaviour {
 			DoHit( hit.collider.gameObject );
 		}
 	}
-	
-	private void DoHit ( GameObject thisObject ) {
+	public void OnDisable() {
+		Trail t = this.GetComponent<Trail>();
+		t.ClearSystem(false);
+	}
+	public void OnEnable() {
+		Trail t = this.GetComponent<Trail>();
+		t.Emit = true;
+	} 
+	protected void DoHit ( GameObject thisObject ) {
 		// do stuff to the target object when it gets hit
-		if ( thisObject.GetComponent<MF_BasicStatus>() ) {
-			thisObject.GetComponent<MF_BasicStatus>().health -= damage;
+		if ( thisObject.GetComponent<BasicUnit>() ) {
+			thisObject.GetComponent<BasicUnit>().health -= damage;
 		}
 	}
 }

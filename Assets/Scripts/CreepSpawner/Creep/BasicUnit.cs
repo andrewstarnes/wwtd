@@ -11,6 +11,7 @@ using System;
 using UnityEngine;
 using Apex.Units;
 using Apex;
+using EnergyBarToolkit;
 
 
 namespace UnitScripts
@@ -19,16 +20,51 @@ namespace UnitScripts
 	{
 		public Transform exit;
 		public float exitThreshold = 5f;
-		void Start()
+		public float health = 10;
+		public float signature;
+		public static EZObjectPool healthBarPool;
+		public static GameObject canvas;
+		public EnergyBar energyBar;
+		void Start() 
 		{
+			if(healthBarPool==null) {
+				GameObject g = GameObject.Find ("HealthBars");
+				healthBarPool = g.GetComponent<EZObjectPool>();
+			}
+			if(canvas==null) {
+				canvas = GameObject.Find ("Canvas");
+			
+			}
 
+			GameObject eb = this.gameObject;
+			healthBarPool.TryGetNextObject(Vector3.zero,Quaternion.identity,out eb);
+			energyBar = eb.GetComponent<EnergyBar>();
+			energyBar.SetValueMax((int) health);
+		//	energyBar.transform.SetParent(canvas.transform);
+			EnergyBarFollowObject guiBar = energyBar.GetComponent<EnergyBarFollowObject>();
+				
+			guiBar.followObject = this.gameObject.transform.FindChild("BarPoint").gameObject;
+		
 			UnitFacade u = (UnitFacade) this.GetUnitFacade();
 			GameObject exit = GameObject.Find("CreepExit");
 			u.MoveTo(exit.transform.position,false);
 		}
+		public void hitUnit(float aDamage,float aDamageInfantryMultiplier,float aDamageMachineMultiplier) {
+			this.health -= aDamage;
+			this.energyBar.SetValueCurrent((int) this.health);
+		}
 
+		public void OnDestroy() {
+			if(energyBar!=null)
+				this.energyBar.gameObject.SetActive(false);
+		}
 		public void Update() {
 			if(exit!=null) {
+				
+				this.energyBar.SetValueCurrent((int) this.health);
+				if ( health <= 0 ) {
+					Destroy(gameObject);
+				}
 				if(Vector3.Distance(exit.position,this.transform.position)<exitThreshold) {
 					Destroy(this.gameObject);
 				}

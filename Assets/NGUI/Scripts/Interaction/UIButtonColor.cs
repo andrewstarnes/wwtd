@@ -19,6 +19,7 @@ public class UIButtonColor : UIWidgetContainer
 		Hover,
 		Pressed,
 		Disabled,
+		Selected,
 	}
 
 	/// <summary>

@@ -9,6 +9,9 @@ public class SimpleDrag : MonoBehaviour
 	private Lean.LeanFinger draggingFinger;
 	
 	public GameObject moveThisObjectInstead;
+
+	public Vector3 moveToHere;
+	const float towerViewOffset = 20f;
 	protected virtual void OnEnable()
 	{
 		// Hook into the OnFingerDown event
@@ -27,12 +30,21 @@ public class SimpleDrag : MonoBehaviour
 		Lean.LeanTouch.OnFingerUp -= OnFingerUp;
 	}
 	
+	public void autoScrollToTower(GameObject aTower) {
+		Vector3 pos = aTower.gameObject.transform.position;
+		moveToHere = new Vector3(pos.x,this.transform.position.y,pos.z-towerViewOffset);
+	}
 	protected virtual void LateUpdate()
 	{
 		// If there is an active finger, move this GameObject based on it
 		if (draggingFinger != null)
 		{
+			moveToHere = new Vector3();
+			Camera.main.GetComponent<SimpleDrag>().moveToHere = new Vector3(0f,0f,0f);
 			Lean.LeanTouch.MoveObject(moveThisObjectInstead.gameObject.transform, draggingFinger.DeltaScreenPosition);
+		} else if(moveToHere.magnitude>0f) {
+			float step = 20f * Time.deltaTime;
+			transform.position = Vector3.MoveTowards(transform.position, moveToHere, step);
 		}
 	}
 	

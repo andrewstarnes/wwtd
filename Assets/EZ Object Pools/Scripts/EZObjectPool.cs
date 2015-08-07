@@ -114,9 +114,9 @@ public class EZObjectPool : MonoBehaviour
 
     #region Instance Functions
 
-    List<GameObject> AvailableObjects;
+    public List<GameObject> AvailableObjects;
 
-    /// <summary>
+    /// <summary> 
     /// Set the properties of the pool.
     /// </summary>
     /// <param name="objectTemplate">The template object to clone.</param>
@@ -166,14 +166,13 @@ public class EZObjectPool : MonoBehaviour
 
 
         if (AvailableObjects.Count > 0)
-        {
-			
+		{
+			Debug.Log ("Getting from available objects: "+Time.time);
 			int lastIndex = AvailableObjects.Count - 1;
             if (AvailableObjects[lastIndex] == null)
             {
-                Debug.LogError("EZObjectPool " + PoolName + " has missing objects in its pool! Are you accidentally destroying any GameObjects retrieved from the pool?");
                 obj = null;
-                return false;
+                return false; 
             }
 
             AvailableObjects[lastIndex].transform.position = pos;
@@ -181,13 +180,13 @@ public class EZObjectPool : MonoBehaviour
             AvailableObjects[lastIndex].SetActive(true);
             obj = AvailableObjects[lastIndex];
             AvailableObjects.RemoveAt(lastIndex);
+
             return true;
-        } else {
-			obj = NewActiveObject();
-		}
+        }
 
         if (AutoResize)
-        {
+		{
+			Debug.Log ("No bullets available, making: "+Time.time);
             GameObject g = NewActiveObject();
             g.transform.position = pos;
             g.transform.rotation = rot;
@@ -242,7 +241,7 @@ public class EZObjectPool : MonoBehaviour
     GameObject NewActiveObject()
     {
         GameObject g = (GameObject)Instantiate(Template);
-        g.transform.parent = transform;
+        g.transform.SetParent(transform);
 
         PooledObject p = g.GetComponent<PooledObject>();
 

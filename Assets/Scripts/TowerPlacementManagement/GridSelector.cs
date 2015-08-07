@@ -7,20 +7,25 @@ public class GridSelector : MonoBehaviour {
 	private GridOverlay overlay;
 	public GameObject selectedTowerPrefab;
 
-
+	public GameObject towerBeingPlaced;
+	
+	public static GridSelector REF;
 	public Vector3 lastMousePoint = new Vector3(0f,0f,0f);
 	// Use this for initialization
 	void Start () {
 		overlay = this.GetComponent<GridOverlay>();
+		REF = this;
 	}
 	
 	void OnEnable() {
 		
 		Lean.LeanTouch.OnFingerTap += OnFingerTap;
+		Lean.LeanTouch.OnFingerHeldDown += OnHeldDown;
 	}
 	void OnDisable() {
 		
-		Lean.LeanTouch.OnFingerTap -= OnFingerTap;
+		Lean.LeanTouch.OnFingerDown -= OnFingerTap;
+		Lean.LeanTouch.OnFingerHeldDown -= OnHeldDown;
 	}
 	// Update is called once per frame
 	void Update () {
@@ -37,7 +42,7 @@ public class GridSelector : MonoBehaviour {
 			p.z = Mathf.FloorToInt(p.z);
 	//		Debug.Log (p);
 			if(Input.GetMouseButtonDown(1)) {
-			//	overlay.toggleBuildable((int) p.x,(int) p.z);
+				overlay.toggleBuildable((int) p.x,(int) p.z);
 			} else if(Input.GetMouseButtonDown(0)) {
 				
 			}
@@ -53,23 +58,64 @@ public class GridSelector : MonoBehaviour {
 			// Make sure the finger isn't over any GUI elements
 			if (finger.IsOverGui == false)
 			{
-				// Clone the prefab, and place it where the finger was tapped
-				
-				buildTower((int) lastMousePoint.x,(int) lastMousePoint.z);
+				// Soft Build this tower, show it's range and stuff but don't let it shoot until we've held down for a second.
+				if(towerBeingPlaced!=null) {
+					Destroy(towerBeingPlaced);
+					towerBeingPlaced = null;
+				}
+				GameObject b = buildTower((int) lastMousePoint.x,(int) lastMousePoint.z);
+				if(b!=null) {
+					WWTD_Tower tower = b.GetComponent<WWTD_Tower>();
+					tower.softPlace();
+					towerBeingPlaced = tower.gameObject;
+				}
 			}
 		}
 	}
-	public bool buildTower(int aSquareX,int aSquareZ) {
+	public void OnHeldDown(Lean.LeanFinger finger)
+	{
+		// Does the prefab exist?
+		if (selectedTowerPrefab != null)
+		{
+			// Make sure the finger isn't over any GUI elements
+			if (finger.IsOverGui == false)
+			{
+				// Clone the prefab, and place it where the finger was tapped
+				if(towerBeingPlaced!=null) {
+					towerBeingPlaced.GetComponent<WWTD_Tower>().hardPlace();
+					towerBeingPlaced = null;
+				}
+			}
+		}
+	}
+	public void drawOverlay(bool aShowOverlay) {
+		overlay.gameObject.SetActive(aShowOverlay);
+	}
+	public void setBuildableAtPosition(float aX,float aY,float aZ,bool aNewValue) {
+
+		Vector3 origin = new Vector3(aX,aY,aZ);
+		RaycastHit rh;
+		if(Physics.Raycast(origin,Vector3.down,out rh,100000f)) {
+			
+			Vector3 p = rh.point;
+			p.x = p.x / (overlay.cellSize);
+			p.z = p.z / (overlay.cellSize);
+			p.x = Mathf.FloorToInt(p.x);
+			p.z = Mathf.FloorToInt(p.z);
+			overlay.buildable[(int) p.z*overlay.gridWidth+(int) p.x] = aNewValue;
+			overlay.UpdateCells();
+			lastMousePoint.x = p.x;
+			lastMousePoint.z = p.z;
+		}	
+	}
+	public GameObject buildTower(int aSquareX,int aSquareZ) {
 		float xPos = (float) aSquareX*overlay.cellSize+(overlay.cellSize/2);
 		float zPos = (float) aSquareZ*overlay.cellSize+(overlay.cellSize/2);
 		if(overlay.buildable[aSquareZ*overlay.gridWidth+aSquareX]) {
-			GameObject nt = (GameObject) Instantiate(selectedTowerPrefab,new Vector3(xPos,overlay.heights[aSquareZ+overlay.gridWidth+aSquareX],zPos),Quaternion.identity);
-			overlay.buildable[aSquareZ*overlay.gridWidth+aSquareX] = false;
-			overlay.UpdateCells();
-			return true;
+			GameManager.REF.placeTowerAt(xPos,overlay.heights[aSquareZ+overlay.gridWidth+aSquareX]-1f,zPos);
+
 		}
-		return false;
-		
+		return null;
 
 	}
 }
